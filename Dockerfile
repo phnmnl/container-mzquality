@@ -5,8 +5,8 @@ FROM python:3.6.5-slim-jessie
 MAINTAINER PhenoMeNal-H2020 Project ( phenomenal-h2020-users@googlegroups.com )
 
 ENV TOOL_NAME="mzQuality" \
-    TOOL_VERSION=0.9.2 \
-    TOOL_DOWNLOAD_URL="https://github.com/leidenuniv-lacdr-abs/mzQuality/archive/v0.9.2.tar.gz" \
+    TOOL_VERSION=0.9.3 \
+    TOOL_DOWNLOAD_URL="https://github.com/leidenuniv-lacdr-abs/mzQuality/archive/v0.9.3.tar.gz" \
     TOOL_TAR_GZ="mzQuality.tar.gz" \
     CONTAINER_VERSION=0.0.1
 
@@ -22,7 +22,6 @@ LABEL software="${TOOL_NAME}" \
 
 # Add testing to container
 COPY runTest1.sh /usr/local/bin/runTest1.sh
-RUN chmod +x /usr/local/bin/runTest1.sh
 
 # install and prepare mzquality
 RUN apt-get update && apt-get install -y --no-install-recommends curl bzip2 && \
@@ -35,9 +34,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends curl bzip2 && \
     apt-get remove -y python-pip curl bzip2 && \
     apt-get autoremove -y && \    
     apt-get clean && \
-    rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/*
+    rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* && \
+    chmod +x /usr/local/bin/runTest1.sh
 
-# set working directory
-WORKDIR /files/${TOOL_NAME}/
-
-ENTRYPOINT ["python", "./qcli.py"]
+ENTRYPOINT ["/files/mzQuality/qcli.py"]
