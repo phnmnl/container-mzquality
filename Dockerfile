@@ -10,15 +10,15 @@ ENV TOOL_NAME="mzQuality" \
     TOOL_TAR_GZ="mzQuality.tar.gz" \
     CONTAINER_VERSION=0.1
 
-LABEL software="${TOOL_NAME}" \
-      software.version="${TOOL_VERSION}" \
-      version="${CONTAINER_VERSION}" \
-      base.image="python:3.6.5-slim-jessie" \
-      description="A tool to assess the quality of targeted mass spectrometry measurements." \
-      website="http://www."${TOOL_NAME}".nl" \
-      documentation="http://www."${TOOL_NAME}".nl" \
-      license="https://github.com/phnmnl/container-"${TOOL_NAME}"/blob/master/LICENSE" \
-      tags="Metabolomics"
+LABEL software="${TOOL_NAME}"
+LABEL software.version="${TOOL_VERSION}"
+LABEL version="${CONTAINER_VERSION}"
+LABEL base.image="python:3.6.5-slim-jessie"
+LABEL description="A tool to assess the quality of targeted mass spectrometry measurements."
+LABEL website="http://www."${TOOL_NAME}".nl"
+LABEL documentation="http://www."${TOOL_NAME}".nl"
+LABEL license="https://github.com/phnmnl/container-"${TOOL_NAME}"/blob/master/LICENSE"
+LABEL tags="Metabolomics"
 
 # Add testing to container
 COPY runTest1.sh /usr/local/bin/runTest1.sh
