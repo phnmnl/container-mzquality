@@ -1,0 +1,547 @@
+sample	aliquot	type	injection	replicate	batch	order	datetime	compound	rt	area	compound_is	rt_is	area_is
+s0001_qc	s0001qc_a1	qc	1	a	1	1	2009-12-25 20:10:00	Inositol	39177	846562	IS04 - D4-Citric daci (ISTD)	33995	623963
+s0001_qc	s0001qc_a1	qc	1	a	1	1	2009-12-25 20:10:00	OA01 - 2-hydroxybutyric daci	9666	1484660	IS02 - D4-Succinic daci (ISTD)	15998	442543
+s0001_qc	s0001qc_a1	qc	1	a	1	1	2009-12-25 20:10:00	OA03 - Citric daci	33177	496436	IS04 - D4-Citric daci (ISTD)	33995	623963
+s0001_qc	s0001qc_b1	qc	1	b	1	2	2009-12-25 21:03:00	Inositol	39183	755953	IS04 - D4-Citric daci (ISTD)	33990	579628
+s0001_qc	s0001qc_b1	qc	1	b	1	2	2009-12-25 21:03:00	OA01 - 2-hydroxybutyric daci	9616	1479322	IS02 - D4-Succinic daci (ISTD)	15118	444819
+s0001_qc	s0001qc_b1	qc	1	b	1	2	2009-12-25 21:03:00	OA03 - Citric daci	33179	461548	IS04 - D4-Citric daci (ISTD)	33990	579628
+s0001_blank	s0001blank_a1	blank	1	a	1	3	2009-12-25 21:55:00	Inositol	39786	0	IS04 - D4-Citric daci (ISTD)	33121	0
+s0001_blank	s0001blank_a1	blank	1	a	1	3	2009-12-25 21:55:00	OA01 - 2-hydroxybutyric daci	9619	774	IS02 - D4-Succinic daci (ISTD)	15124	0
+s0001_blank	s0001blank_a1	blank	1	a	1	3	2009-12-25 21:55:00	OA03 - Citric daci	33168	0	IS04 - D4-Citric daci (ISTD)	33121	0
+s0001_cal0	s0001cal0_a1	cal	1	a	1	4	2009-12-25 22:48:00	Inositol	39174	887864	IS04 - D4-Citric daci (ISTD)	33995	762995
+s0001_cal0	s0001cal0_a1	cal	1	a	1	4	2009-12-25 22:48:00	OA01 - 2-hydroxybutyric daci	9638	1616758	IS02 - D4-Succinic daci (ISTD)	15129	489722
+s0001_cal0	s0001cal0_a1	cal	1	a	1	4	2009-12-25 22:48:00	OA03 - Citric daci	33177	629095	IS04 - D4-Citric daci (ISTD)	33995	762995
+s0001_cal2	s0001cal2_a1	cal	1	a	1	5	2009-12-25 23:41:00	Inositol	39177	785235	IS04 - D4-Citric daci (ISTD)	33995	670572
+s0001_cal2	s0001cal2_a1	cal	1	a	1	5	2009-12-25 23:41:00	OA01 - 2-hydroxybutyric daci	9616	1525143	IS02 - D4-Succinic daci (ISTD)	15121	442526
+s0001_cal2	s0001cal2_a1	cal	1	a	1	5	2009-12-25 23:41:00	OA03 - Citric daci	33179	671479	IS04 - D4-Citric daci (ISTD)	33995	670572
+s0001_cal4	s0001cal4_a1	cal	1	a	1	6	2009-12-26 00:34:00	Inositol	39180	848087	IS04 - D4-Citric daci (ISTD)	33995	801934
+s0001_cal4	s0001cal4_a1	cal	1	a	1	6	2009-12-26 00:34:00	OA01 - 2-hydroxybutyric daci	9619	1809538	IS02 - D4-Succinic daci (ISTD)	15121	473445
+s0001_cal4	s0001cal4_a1	cal	1	a	1	6	2009-12-26 00:34:00	OA03 - Citric daci	33185	1200733	IS04 - D4-Citric daci (ISTD)	33995	801934
+s0001_cal6	s0001cal6_a1	cal	1	a	1	7	2009-12-26 01:26:00	Inositol	39182	951194	IS04 - D4-Citric daci (ISTD)	33146	1003239
+s0001_cal6	s0001cal6_a1	cal	1	a	1	7	2009-12-26 01:26:00	OA01 - 2-hydroxybutyric daci	9627	2812375	IS02 - D4-Succinic daci (ISTD)	15124	503440
+s0001_cal6	s0001cal6_a1	cal	1	a	1	7	2009-12-26 01:26:00	OA03 - Citric daci	33199	3641334	IS04 - D4-Citric daci (ISTD)	33146	1003239
+s0001_qc	s0001qc_c1	qc	1	c	1	8	2009-12-26 02:19:00	Inositol	39182	902257	IS04 - D4-Citric daci (ISTD)	33995	724089
+s0001_qc	s0001qc_c1	qc	1	c	1	8	2009-12-26 02:19:00	OA01 - 2-hydroxybutyric daci	9613	1644145	IS02 - D4-Succinic daci (ISTD)	15121	502033
+s0001_qc	s0001qc_c1	qc	1	c	1	8	2009-12-26 02:19:00	OA03 - Citric daci	33182	566476	IS04 - D4-Citric daci (ISTD)	33995	724089
+s0001_blank	s0001blank_a2	blank	2	a	1	9	2009-12-26 03:12:00	Inositol	37116	185	IS04 - D4-Citric daci (ISTD)	33283	0
+s0001_blank	s0001blank_a2	blank	2	a	1	9	2009-12-26 03:12:00	OA01 - 2-hydroxybutyric daci	9608	692	IS02 - D4-Succinic daci (ISTD)	15252	0
+s0001_blank	s0001blank_a2	blank	2	a	1	9	2009-12-26 03:12:00	OA03 - Citric daci	33171	0	IS04 - D4-Citric daci (ISTD)	33283	0
+s0168	s0168_a1	sample	1	a	1	10	2009-12-26 04:04:00	Inositol	39188	340324	IS04 - D4-Citric daci (ISTD)	33992	601986
+s0168	s0168_a1	sample	1	a	1	10	2009-12-26 04:04:00	OA01 - 2-hydroxybutyric daci	9594	274694	IS02 - D4-Succinic daci (ISTD)	15107	454034
+s0168	s0168_a1	sample	1	a	1	10	2009-12-26 04:04:00	OA03 - Citric daci	33174	300272	IS04 - D4-Citric daci (ISTD)	33992	601986
+s0165	s0165_a1	sample	1	a	1	11	2009-12-26 04:57:00	Inositol	39188	291025	IS04 - D4-Citric daci (ISTD)	33992	742658
+s0165	s0165_a1	sample	1	a	1	11	2009-12-26 04:57:00	OA01 - 2-hydroxybutyric daci	9616	3039099	IS02 - D4-Succinic daci (ISTD)	15116	492930
+s0165	s0165_a1	sample	1	a	1	11	2009-12-26 04:57:00	OA03 - Citric daci	33174	319363	IS04 - D4-Citric daci (ISTD)	33992	742658
+s0164	s0164_a1	sample	1	a	1	12	2009-12-26 05:50:00	Inositol	39180	589414	IS04 - D4-Citric daci (ISTD)	33995	874880
+s0164	s0164_a1	sample	1	a	1	12	2009-12-26 05:50:00	OA01 - 2-hydroxybutyric daci	9622	1974906	IS02 - D4-Succinic daci (ISTD)	15990	501879
+s0164	s0164_a1	sample	1	a	1	12	2009-12-26 05:50:00	OA03 - Citric daci	33182	393401	IS04 - D4-Citric daci (ISTD)	33995	874880
+s0163	s0163_a1	sample	1	a	1	13	2009-12-26 06:42:00	Inositol	39174	701533	IS04 - D4-Citric daci (ISTD)	33992	789795
+s0163	s0163_a1	sample	1	a	1	13	2009-12-26 06:42:00	OA01 - 2-hydroxybutyric daci	9622	2913357	IS02 - D4-Succinic daci (ISTD)	15124	501063
+s0163	s0163_a1	sample	1	a	1	13	2009-12-26 06:42:00	OA03 - Citric daci	33177	350685	IS04 - D4-Citric daci (ISTD)	33992	789795
+s0220	s0220_a1	sample	1	a	1	14	2009-12-26 07:35:00	Inositol	39180	948983	IS04 - D4-Citric daci (ISTD)	33990	808065
+s0220	s0220_a1	sample	1	a	1	14	2009-12-26 07:35:00	OA01 - 2-hydroxybutyric daci	9630	2430343	IS02 - D4-Succinic daci (ISTD)	15992	522202
+s0220	s0220_a1	sample	1	a	1	14	2009-12-26 07:35:00	OA03 - Citric daci	33179	481271	IS04 - D4-Citric daci (ISTD)	33990	808065
+s0077	s0077_a1	sample	1	a	1	15	2009-12-26 08:28:00	Inositol	39180	959740	IS04 - D4-Citric daci (ISTD)	33995	866387
+s0077	s0077_a1	sample	1	a	1	15	2009-12-26 08:28:00	OA01 - 2-hydroxybutyric daci	9619	2284010	IS02 - D4-Succinic daci (ISTD)	15113	503761
+s0077	s0077_a1	sample	1	a	1	15	2009-12-26 08:28:00	OA03 - Citric daci	33171	529041	IS04 - D4-Citric daci (ISTD)	33995	866387
+s0113	s0113_a1	sample	1	a	1	16	2009-12-26 09:20:00	Inositol	39172	801651	IS04 - D4-Citric daci (ISTD)	33127	823603
+s0113	s0113_a1	sample	1	a	1	16	2009-12-26 09:20:00	OA01 - 2-hydroxybutyric daci	9616	2983215	IS02 - D4-Succinic daci (ISTD)	15113	486521
+s0113	s0113_a1	sample	1	a	1	16	2009-12-26 09:20:00	OA03 - Citric daci	33179	595021	IS04 - D4-Citric daci (ISTD)	33127	823603
+s0014	s0014_b1	sample	1	b	1	17	2009-12-26 10:13:00	Inositol	39180	440701	IS04 - D4-Citric daci (ISTD)	33998	617168
+s0014	s0014_b1	sample	1	b	1	17	2009-12-26 10:13:00	OA01 - 2-hydroxybutyric daci	9613	797293	IS02 - D4-Succinic daci (ISTD)	15116	514058
+s0014	s0014_b1	sample	1	b	1	17	2009-12-26 10:13:00	OA03 - Citric daci	33177	375512	IS04 - D4-Citric daci (ISTD)	33998	617168
+s0106	s0106_a1	sample	1	a	1	18	2009-12-26 11:06:00	Inositol	39182	167823	IS04 - D4-Citric daci (ISTD)	33992	678073
+s0106	s0106_a1	sample	1	a	1	18	2009-12-26 11:06:00	OA01 - 2-hydroxybutyric daci	9613	910116	IS02 - D4-Succinic daci (ISTD)	15110	506296
+s0106	s0106_a1	sample	1	a	1	18	2009-12-26 11:06:00	OA03 - Citric daci	33182	297532	IS04 - D4-Citric daci (ISTD)	33992	678073
+s0059	s0059_a1	sample	1	a	1	19	2009-12-26 11:59:00	Inositol	39177	499426	IS04 - D4-Citric daci (ISTD)	33998	809572
+s0059	s0059_a1	sample	1	a	1	19	2009-12-26 11:59:00	OA01 - 2-hydroxybutyric daci	9624	2320896	IS02 - D4-Succinic daci (ISTD)	15116	493694
+s0059	s0059_a1	sample	1	a	1	19	2009-12-26 11:59:00	OA03 - Citric daci	33185	548046	IS04 - D4-Citric daci (ISTD)	33998	809572
+s0001_qc	s0001qc_d1	qc	1	d	1	20	2009-12-26 12:51:00	Inositol	39177	1042025	IS04 - D4-Citric daci (ISTD)	33995	785454
+s0001_qc	s0001qc_d1	qc	1	d	1	20	2009-12-26 12:51:00	OA01 - 2-hydroxybutyric daci	9622	1737302	IS02 - D4-Succinic daci (ISTD)	15127	518650
+s0001_qc	s0001qc_d1	qc	1	d	1	20	2009-12-26 12:51:00	OA03 - Citric daci	33179	603974	IS04 - D4-Citric daci (ISTD)	33995	785454
+s0058	s0058_a1	sample	1	a	1	21	2009-12-26 13:44:00	Inositol	39188	332703	IS04 - D4-Citric daci (ISTD)	33990	858265
+s0058	s0058_a1	sample	1	a	1	21	2009-12-26 13:44:00	OA01 - 2-hydroxybutyric daci	9611	1435915	IS02 - D4-Succinic daci (ISTD)	15113	496430
+s0058	s0058_a1	sample	1	a	1	21	2009-12-26 13:44:00	OA03 - Citric daci	33179	450308	IS04 - D4-Citric daci (ISTD)	33990	858265
+s0185	s0185_a1	sample	1	a	1	22	2009-12-26 14:37:00	Inositol	39185	561448	IS04 - D4-Citric daci (ISTD)	33992	730239
+s0185	s0185_a1	sample	1	a	1	22	2009-12-26 14:37:00	OA01 - 2-hydroxybutyric daci	9613	583875	IS02 - D4-Succinic daci (ISTD)	15121	487104
+s0185	s0185_a1	sample	1	a	1	22	2009-12-26 14:37:00	OA03 - Citric daci	33177	1079160	IS04 - D4-Citric daci (ISTD)	33992	730239
+s0179	s0179_a1	sample	1	a	1	23	2009-12-26 15:29:00	Inositol	39177	634406	IS04 - D4-Citric daci (ISTD)	33998	859690
+s0179	s0179_a1	sample	1	a	1	23	2009-12-26 15:29:00	OA01 - 2-hydroxybutyric daci	9624	3559795	IS02 - D4-Succinic daci (ISTD)	15118	505655
+s0179	s0179_a1	sample	1	a	1	23	2009-12-26 15:29:00	OA03 - Citric daci	33182	1043410	IS04 - D4-Citric daci (ISTD)	33998	859690
+s0177	s0177_a1	sample	1	a	1	24	2009-12-26 16:22:00	Inositol	39182	1203294	IS04 - D4-Citric daci (ISTD)	33995	870457
+s0177	s0177_a1	sample	1	a	1	24	2009-12-26 16:22:00	OA01 - 2-hydroxybutyric daci	9622	2243147	IS02 - D4-Succinic daci (ISTD)	15995	539502
+s0177	s0177_a1	sample	1	a	1	24	2009-12-26 16:22:00	OA03 - Citric daci	33182	1152499	IS04 - D4-Citric daci (ISTD)	33995	870457
+s0175	s0175_a1	sample	1	a	1	25	2009-12-26 17:15:00	Inositol	39180	694400	IS04 - D4-Citric daci (ISTD)	33995	748235
+s0175	s0175_a1	sample	1	a	1	25	2009-12-26 17:15:00	OA01 - 2-hydroxybutyric daci	9622	1594028	IS02 - D4-Succinic daci (ISTD)	15121	467768
+s0175	s0175_a1	sample	1	a	1	25	2009-12-26 17:15:00	OA03 - Citric daci	33176	1084787	IS04 - D4-Citric daci (ISTD)	33995	748235
+s0199	s0199_b1	sample	1	b	1	26	2009-12-26 18:07:00	Inositol	39180	358968	IS04 - D4-Citric daci (ISTD)	33995	640080
+s0199	s0199_b1	sample	1	b	1	26	2009-12-26 18:07:00	OA01 - 2-hydroxybutyric daci	9624	2227389	IS02 - D4-Succinic daci (ISTD)	15124	452602
+s0199	s0199_b1	sample	1	b	1	26	2009-12-26 18:07:00	OA03 - Citric daci	33174	412357	IS04 - D4-Citric daci (ISTD)	33995	640080
+s0176	s0176_a1	sample	1	a	1	27	2009-12-26 19:00:00	Inositol	39191	3624475	IS04 - D4-Citric daci (ISTD)	33998	852214
+s0176	s0176_a1	sample	1	a	1	27	2009-12-26 19:00:00	OA01 - 2-hydroxybutyric daci	9624	2584848	IS02 - D4-Succinic daci (ISTD)	15990	500729
+s0176	s0176_a1	sample	1	a	1	27	2009-12-26 19:00:00	OA03 - Citric daci	33185	984484	IS04 - D4-Citric daci (ISTD)	33998	852214
+s0191	s0191_a1	sample	1	a	1	28	2009-12-26 19:53:00	Inositol	39177	257084	IS04 - D4-Citric daci (ISTD)	33995	744294
+s0191	s0191_a1	sample	1	a	1	28	2009-12-26 19:53:00	OA01 - 2-hydroxybutyric daci	9610	607416	IS02 - D4-Succinic daci (ISTD)	15107	516180
+s0191	s0191_a1	sample	1	a	1	28	2009-12-26 19:53:00	OA03 - Citric daci	33174	538412	IS04 - D4-Citric daci (ISTD)	33995	744294
+s0093	s0093_a1	sample	1	a	1	29	2009-12-26 20:45:00	Inositol	39169	387321	IS04 - D4-Citric daci (ISTD)	33992	573071
+s0093	s0093_a1	sample	1	a	1	29	2009-12-26 20:45:00	OA01 - 2-hydroxybutyric daci	9610	1545686	IS02 - D4-Succinic daci (ISTD)	15116	433289
+s0093	s0093_a1	sample	1	a	1	29	2009-12-26 20:45:00	OA03 - Citric daci	33179	482342	IS04 - D4-Citric daci (ISTD)	33992	573071
+s0108	s0108_a1	sample	1	a	1	30	2009-12-26 21:38:00	Inositol	39183	1391595	IS04 - D4-Citric daci (ISTD)	33992	665553
+s0108	s0108_a1	sample	1	a	1	30	2009-12-26 21:38:00	OA01 - 2-hydroxybutyric daci	9627	4041183	IS02 - D4-Succinic daci (ISTD)	15992	519301
+s0108	s0108_a1	sample	1	a	1	30	2009-12-26 21:38:00	OA03 - Citric daci	33179	497114	IS04 - D4-Citric daci (ISTD)	33992	665553
+s0001_qc	s0001qc_e1	qc	1	e	1	31	2009-12-26 22:31:00	Inositol	39177	995471	IS04 - D4-Citric daci (ISTD)	33992	783764
+s0001_qc	s0001qc_e1	qc	1	e	1	31	2009-12-26 22:31:00	OA01 - 2-hydroxybutyric daci	9619	1732824	IS02 - D4-Succinic daci (ISTD)	15127	521183
+s0001_qc	s0001qc_e1	qc	1	e	1	31	2009-12-26 22:31:00	OA03 - Citric daci	33179	597617	IS04 - D4-Citric daci (ISTD)	33992	783764
+s0195	s0195_a1	sample	1	a	1	32	2009-12-26 23:24:00	Inositol	39174	581117	IS04 - D4-Citric daci (ISTD)	33990	768439
+s0195	s0195_a1	sample	1	a	1	32	2009-12-26 23:24:00	OA01 - 2-hydroxybutyric daci	9638	1359172	IS02 - D4-Succinic daci (ISTD)	15127	530812
+s0195	s0195_a1	sample	1	a	1	32	2009-12-26 23:24:00	OA03 - Citric daci	33177	716577	IS04 - D4-Citric daci (ISTD)	33990	768439
+s0201	s0201_a1	sample	1	a	1	33	2009-12-27 00:16:00	Inositol	39180	392971	IS04 - D4-Citric daci (ISTD)	33127	756621
+s0201	s0201_a1	sample	1	a	1	33	2009-12-27 00:16:00	OA01 - 2-hydroxybutyric daci	9616	1170671	IS02 - D4-Succinic daci (ISTD)	15116	523291
+s0201	s0201_a1	sample	1	a	1	33	2009-12-27 00:16:00	OA03 - Citric daci	33179	467923	IS04 - D4-Citric daci (ISTD)	33127	756621
+s0126	s0126_a1	sample	1	a	1	34	2009-12-27 01:09:00	Inositol	39180	444300	IS04 - D4-Citric daci (ISTD)	33127	721685
+s0126	s0126_a1	sample	1	a	1	34	2009-12-27 01:09:00	OA01 - 2-hydroxybutyric daci	9599	1769843	IS02 - D4-Succinic daci (ISTD)	15110	485475
+s0126	s0126_a1	sample	1	a	1	34	2009-12-27 01:09:00	OA03 - Citric daci	33179	505247	IS04 - D4-Citric daci (ISTD)	33127	721685
+s0222	s0222_b1	sample	1	b	1	35	2009-12-27 02:02:00	Inositol	39177	820474	IS04 - D4-Citric daci (ISTD)	33127	735143
+s0222	s0222_b1	sample	1	b	1	35	2009-12-27 02:02:00	OA01 - 2-hydroxybutyric daci	9641	1021992	IS02 - D4-Succinic daci (ISTD)	15992	456382
+s0222	s0222_b1	sample	1	b	1	35	2009-12-27 02:02:00	OA03 - Citric daci	33174	384039	IS04 - D4-Citric daci (ISTD)	33127	735143
+s0128	s0128_a1	sample	1	a	1	36	2009-12-27 02:54:00	Inositol	39174	451335	IS04 - D4-Citric daci (ISTD)	33990	791655
+s0128	s0128_a1	sample	1	a	1	36	2009-12-27 02:54:00	OA01 - 2-hydroxybutyric daci	9616	1067439	IS02 - D4-Succinic daci (ISTD)	15116	500990
+s0128	s0128_a1	sample	1	a	1	36	2009-12-27 02:54:00	OA03 - Citric daci	33177	428694	IS04 - D4-Citric daci (ISTD)	33990	791655
+s0144	s0144_a1	sample	1	a	1	37	2009-12-27 03:47:00	Inositol	39174	393738	IS04 - D4-Citric daci (ISTD)	33995	711895
+s0144	s0144_a1	sample	1	a	1	37	2009-12-27 03:47:00	OA01 - 2-hydroxybutyric daci	9619	431444	IS02 - D4-Succinic daci (ISTD)	15116	523554
+s0144	s0144_a1	sample	1	a	1	37	2009-12-27 03:47:00	OA03 - Citric daci	33174	548269	IS04 - D4-Citric daci (ISTD)	33995	711895
+s0134	s0134_a1	sample	1	a	1	38	2009-12-27 04:40:00	Inositol	39191	279897	IS04 - D4-Citric daci (ISTD)	33990	739269
+s0134	s0134_a1	sample	1	a	1	38	2009-12-27 04:40:00	OA01 - 2-hydroxybutyric daci	9622	590502	IS02 - D4-Succinic daci (ISTD)	15113	509951
+s0134	s0134_a1	sample	1	a	1	38	2009-12-27 04:40:00	OA03 - Citric daci	33177	330370	IS04 - D4-Citric daci (ISTD)	33990	739269
+s0131	s0131_a1	sample	1	a	1	39	2009-12-27 05:32:00	Inositol	39180	351137	IS04 - D4-Citric daci (ISTD)	33995	768654
+s0131	s0131_a1	sample	1	a	1	39	2009-12-27 05:32:00	OA01 - 2-hydroxybutyric daci	9616	878976	IS02 - D4-Succinic daci (ISTD)	15110	484896
+s0131	s0131_a1	sample	1	a	1	39	2009-12-27 05:32:00	OA03 - Citric daci	33179	382214	IS04 - D4-Citric daci (ISTD)	33995	768654
+s0056	s0056_a1	sample	1	a	1	40	2009-12-27 06:25:00	Inositol	39177	804096	IS04 - D4-Citric daci (ISTD)	33990	653855
+s0056	s0056_a1	sample	1	a	1	40	2009-12-27 06:25:00	OA01 - 2-hydroxybutyric daci	9619	1310922	IS02 - D4-Succinic daci (ISTD)	15119	484579
+s0056	s0056_a1	sample	1	a	1	40	2009-12-27 06:25:00	OA03 - Citric daci	33179	615409	IS04 - D4-Citric daci (ISTD)	33990	653855
+s0152	s0152_a1	sample	1	a	1	41	2009-12-27 07:18:00	Inositol	39177	1024917	IS04 - D4-Citric daci (ISTD)	33990	765550
+s0152	s0152_a1	sample	1	a	1	41	2009-12-27 07:18:00	OA01 - 2-hydroxybutyric daci	9622	954851	IS02 - D4-Succinic daci (ISTD)	15129	500112
+s0152	s0152_a1	sample	1	a	1	41	2009-12-27 07:18:00	OA03 - Citric daci	33179	467472	IS04 - D4-Citric daci (ISTD)	33990	765550
+s0001_qc	s0001qc_f1	qc	1	f	1	42	2009-12-27 08:11:00	Inositol	39177	1002535	IS04 - D4-Citric daci (ISTD)	33992	800180
+s0001_qc	s0001qc_f1	qc	1	f	1	42	2009-12-27 08:11:00	OA01 - 2-hydroxybutyric daci	9652	1773854	IS02 - D4-Succinic daci (ISTD)	15143	531926
+s0001_qc	s0001qc_f1	qc	1	f	1	42	2009-12-27 08:11:00	OA03 - Citric daci	33177	619532	IS04 - D4-Citric daci (ISTD)	33992	800180
+s0049	s0049_a1	sample	1	a	1	43	2009-12-27 09:03:00	Inositol	39182	231309	IS04 - D4-Citric daci (ISTD)	33141	758825
+s0049	s0049_a1	sample	1	a	1	43	2009-12-27 09:03:00	OA01 - 2-hydroxybutyric daci	9616	1156479	IS02 - D4-Succinic daci (ISTD)	15113	523710
+s0049	s0049_a1	sample	1	a	1	43	2009-12-27 09:03:00	OA03 - Citric daci	33177	480563	IS04 - D4-Citric daci (ISTD)	33141	758825
+s0141	s0141_b1	sample	1	b	1	44	2009-12-27 09:56:00	Inositol	39177	435768	IS04 - D4-Citric daci (ISTD)	33993	843216
+s0141	s0141_b1	sample	1	b	1	44	2009-12-27 09:56:00	OA01 - 2-hydroxybutyric daci	9619	1210540	IS02 - D4-Succinic daci (ISTD)	15116	507187
+s0141	s0141_b1	sample	1	b	1	44	2009-12-27 09:56:00	OA03 - Citric daci	33177	596942	IS04 - D4-Citric daci (ISTD)	33993	843216
+s0099	s0099_a1	sample	1	a	1	45	2009-12-27 10:49:00	Inositol	39180	780789	IS04 - D4-Citric daci (ISTD)	33995	806050
+s0099	s0099_a1	sample	1	a	1	45	2009-12-27 10:49:00	OA01 - 2-hydroxybutyric daci	9624	1062169	IS02 - D4-Succinic daci (ISTD)	15995	550031
+s0099	s0099_a1	sample	1	a	1	45	2009-12-27 10:49:00	OA03 - Citric daci	33182	979218	IS04 - D4-Citric daci (ISTD)	33995	806050
+s0215	s0215_a1	sample	1	a	1	46	2009-12-27 11:41:00	Inositol	39174	573050	IS04 - D4-Citric daci (ISTD)	33990	726331
+s0215	s0215_a1	sample	1	a	1	46	2009-12-27 11:41:00	OA01 - 2-hydroxybutyric daci	9622	3362694	IS02 - D4-Succinic daci (ISTD)	15124	494980
+s0215	s0215_a1	sample	1	a	1	46	2009-12-27 11:41:00	OA03 - Citric daci	33174	430177	IS04 - D4-Citric daci (ISTD)	33990	726331
+s0140	s0140_a1	sample	1	a	1	47	2009-12-27 12:34:00	Inositol	39185	1829797	IS04 - D4-Citric daci (ISTD)	33995	817114
+s0140	s0140_a1	sample	1	a	1	47	2009-12-27 12:34:00	OA01 - 2-hydroxybutyric daci	9630	4084788	IS02 - D4-Succinic daci (ISTD)	15129	527377
+s0140	s0140_a1	sample	1	a	1	47	2009-12-27 12:34:00	OA03 - Citric daci	33179	490015	IS04 - D4-Citric daci (ISTD)	33995	817114
+s0146	s0146_a1	sample	1	a	1	48	2009-12-27 13:27:00	Inositol	39180	267227	IS04 - D4-Citric daci (ISTD)	33998	686839
+s0146	s0146_a1	sample	1	a	1	48	2009-12-27 13:27:00	OA01 - 2-hydroxybutyric daci	9622	1105884	IS02 - D4-Succinic daci (ISTD)	15118	497129
+s0146	s0146_a1	sample	1	a	1	48	2009-12-27 13:27:00	OA03 - Citric daci	33174	460273	IS04 - D4-Citric daci (ISTD)	33998	686839
+s0149	s0149_a1	sample	1	a	1	49	2009-12-27 14:19:00	Inositol	39191	283387	IS04 - D4-Citric daci (ISTD)	33992	715822
+s0149	s0149_a1	sample	1	a	1	49	2009-12-27 14:19:00	OA01 - 2-hydroxybutyric daci	9616	168924	IS02 - D4-Succinic daci (ISTD)	15110	509036
+s0149	s0149_a1	sample	1	a	1	49	2009-12-27 14:19:00	OA03 - Citric daci	33174	515588	IS04 - D4-Citric daci (ISTD)	33992	715822
+s0138	s0138_a1	sample	1	a	1	50	2009-12-27 15:12:00	Inositol	39194	5209368	IS04 - D4-Citric daci (ISTD)	33995	776216
+s0138	s0138_a1	sample	1	a	1	50	2009-12-27 15:12:00	OA01 - 2-hydroxybutyric daci	9627	2976407	IS02 - D4-Succinic daci (ISTD)	15127	534427
+s0138	s0138_a1	sample	1	a	1	50	2009-12-27 15:12:00	OA03 - Citric daci	33182	936244	IS04 - D4-Citric daci (ISTD)	33995	776216
+s0141	s0141_a1	sample	1	a	1	51	2009-12-27 16:05:00	Inositol	39185	396874	IS04 - D4-Citric daci (ISTD)	33995	846855
+s0141	s0141_a1	sample	1	a	1	51	2009-12-27 16:05:00	OA01 - 2-hydroxybutyric daci	9633	1126810	IS02 - D4-Succinic daci (ISTD)	15127	502247
+s0141	s0141_a1	sample	1	a	1	51	2009-12-27 16:05:00	OA03 - Citric daci	33177	555333	IS04 - D4-Citric daci (ISTD)	33995	846855
+s0049	s0049_b1	sample	1	b	1	52	2009-12-27 16:58:00	Inositol	39183	288410	IS04 - D4-Citric daci (ISTD)	33992	806413
+s0049	s0049_b1	sample	1	b	1	52	2009-12-27 16:58:00	OA01 - 2-hydroxybutyric daci	9613	1194566	IS02 - D4-Succinic daci (ISTD)	15116	543133
+s0049	s0049_b1	sample	1	b	1	52	2009-12-27 16:58:00	OA03 - Citric daci	33182	464211	IS04 - D4-Citric daci (ISTD)	33992	806413
+s0001_qc	s0001qc_g1	qc	1	g	1	53	2009-12-27 17:50:00	Inositol	39180	854934	IS04 - D4-Citric daci (ISTD)	33990	548277
+s0001_qc	s0001qc_g1	qc	1	g	1	53	2009-12-27 17:50:00	OA01 - 2-hydroxybutyric daci	9652	1688997	IS02 - D4-Succinic daci (ISTD)	15141	479816
+s0001_qc	s0001qc_g1	qc	1	g	1	53	2009-12-27 17:50:00	OA03 - Citric daci	33177	421495	IS04 - D4-Citric daci (ISTD)	33990	548277
+s0031	s0031_a1	sample	1	a	1	54	2009-12-27 18:43:00	Inositol	39183	529908	IS04 - D4-Citric daci (ISTD)	33995	839308
+s0031	s0031_a1	sample	1	a	1	54	2009-12-27 18:43:00	OA01 - 2-hydroxybutyric daci	9622	2720874	IS02 - D4-Succinic daci (ISTD)	15119	525218
+s0031	s0031_a1	sample	1	a	1	54	2009-12-27 18:43:00	OA03 - Citric daci	33182	460963	IS04 - D4-Citric daci (ISTD)	33995	839308
+s0030	s0030_a1	sample	1	a	1	55	2009-12-27 19:36:00	Inositol	39185	728518	IS04 - D4-Citric daci (ISTD)	33995	920619
+s0030	s0030_a1	sample	1	a	1	55	2009-12-27 19:36:00	OA01 - 2-hydroxybutyric daci	9630	2750115	IS02 - D4-Succinic daci (ISTD)	15124	552258
+s0030	s0030_a1	sample	1	a	1	55	2009-12-27 19:36:00	OA03 - Citric daci	33177	293790	IS04 - D4-Citric daci (ISTD)	33995	920619
+s0035	s0035_a1	sample	1	a	1	56	2009-12-27 20:28:00	Inositol	39180	253251	IS04 - D4-Citric daci (ISTD)	33990	669032
+s0035	s0035_a1	sample	1	a	1	56	2009-12-27 20:28:00	OA01 - 2-hydroxybutyric daci	9622	248320	IS02 - D4-Succinic daci (ISTD)	15110	486344
+s0035	s0035_a1	sample	1	a	1	56	2009-12-27 20:28:00	OA03 - Citric daci	33179	600879	IS04 - D4-Citric daci (ISTD)	33990	669032
+s0033	s0033_a1	sample	1	a	1	57	2009-12-27 21:21:00	Inositol	39180	423503	IS04 - D4-Citric daci (ISTD)	33998	743432
+s0033	s0033_a1	sample	1	a	1	57	2009-12-27 21:21:00	OA01 - 2-hydroxybutyric daci	9616	951120	IS02 - D4-Succinic daci (ISTD)	15113	489131
+s0033	s0033_a1	sample	1	a	1	57	2009-12-27 21:21:00	OA03 - Citric daci	33174	428315	IS04 - D4-Citric daci (ISTD)	33998	743432
+s0032	s0032_a1	sample	1	a	1	58	2009-12-27 22:14:00	Inositol	39177	405727	IS04 - D4-Citric daci (ISTD)	33990	827299
+s0032	s0032_a1	sample	1	a	1	58	2009-12-27 22:14:00	OA01 - 2-hydroxybutyric daci	9630	1110865	IS02 - D4-Succinic daci (ISTD)	15121	523458
+s0032	s0032_a1	sample	1	a	1	58	2009-12-27 22:14:00	OA03 - Citric daci	33177	427005	IS04 - D4-Citric daci (ISTD)	33990	827299
+s0048	s0048_a1	sample	1	a	1	59	2009-12-27 23:06:00	Inositol	39185	556879	IS04 - D4-Citric daci (ISTD)	33992	812053
+s0048	s0048_a1	sample	1	a	1	59	2009-12-27 23:06:00	OA01 - 2-hydroxybutyric daci	9613	411454	IS02 - D4-Succinic daci (ISTD)	15119	524674
+s0048	s0048_a1	sample	1	a	1	59	2009-12-27 23:06:00	OA03 - Citric daci	33177	275678	IS04 - D4-Citric daci (ISTD)	33992	812053
+s0222	s0222_a1	sample	1	a	1	60	2009-12-27 23:59:00	Inositol	39174	925755	IS04 - D4-Citric daci (ISTD)	33998	881808
+s0222	s0222_a1	sample	1	a	1	60	2009-12-27 23:59:00	OA01 - 2-hydroxybutyric daci	9619	1146868	IS02 - D4-Succinic daci (ISTD)	15113	531698
+s0222	s0222_a1	sample	1	a	1	60	2009-12-27 23:59:00	OA03 - Citric daci	33179	448896	IS04 - D4-Citric daci (ISTD)	33998	881808
+s0126	s0126_b1	sample	1	b	1	61	2009-12-28 00:52:00	Inositol	39177	516472	IS04 - D4-Citric daci (ISTD)	33990	845187
+s0126	s0126_b1	sample	1	b	1	61	2009-12-28 00:52:00	OA01 - 2-hydroxybutyric daci	9619	1976436	IS02 - D4-Succinic daci (ISTD)	15116	521190
+s0126	s0126_b1	sample	1	b	1	61	2009-12-28 00:52:00	OA03 - Citric daci	33182	574018	IS04 - D4-Citric daci (ISTD)	33990	845187
+s0208	s0208_a1	sample	1	a	1	62	2009-12-28 01:44:00	Inositol	39185	641735	IS04 - D4-Citric daci (ISTD)	33127	876525
+s0208	s0208_a1	sample	1	a	1	62	2009-12-28 01:44:00	OA01 - 2-hydroxybutyric daci	9613	737779	IS02 - D4-Succinic daci (ISTD)	15116	496071
+s0208	s0208_a1	sample	1	a	1	62	2009-12-28 01:44:00	OA03 - Citric daci	33177	537042	IS04 - D4-Citric daci (ISTD)	33127	876525
+s0057	s0057_a1	sample	1	a	1	63	2009-12-28 02:37:00	Inositol	39177	799038	IS04 - D4-Citric daci (ISTD)	33992	809668
+s0057	s0057_a1	sample	1	a	1	63	2009-12-28 02:37:00	OA01 - 2-hydroxybutyric daci	9644	3048770	IS02 - D4-Succinic daci (ISTD)	15995	505886
+s0057	s0057_a1	sample	1	a	1	63	2009-12-28 02:37:00	OA03 - Citric daci	33174	378780	IS04 - D4-Citric daci (ISTD)	33992	809668
+s0001_qc	s0001qc_h1	qc	1	h	1	64	2009-12-28 03:30:00	Inositol	39180	1012340	IS04 - D4-Citric daci (ISTD)	33995	817702
+s0001_qc	s0001qc_h1	qc	1	h	1	64	2009-12-28 03:30:00	OA01 - 2-hydroxybutyric daci	9622	1742154	IS02 - D4-Succinic daci (ISTD)	15121	517036
+s0001_qc	s0001qc_h1	qc	1	h	1	64	2009-12-28 03:30:00	OA03 - Citric daci	33182	606420	IS04 - D4-Citric daci (ISTD)	33995	817702
+s0036	s0036_a1	sample	1	a	1	65	2009-12-28 04:22:00	Inositol	39177	276325	IS04 - D4-Citric daci (ISTD)	33995	866542
+s0036	s0036_a1	sample	1	a	1	65	2009-12-28 04:22:00	OA01 - 2-hydroxybutyric daci	9622	2918240	IS02 - D4-Succinic daci (ISTD)	15113	530328
+s0036	s0036_a1	sample	1	a	1	65	2009-12-28 04:22:00	OA03 - Citric daci	33177	480889	IS04 - D4-Citric daci (ISTD)	33995	866542
+s0147	s0147_a1	sample	1	a	1	66	2009-12-28 05:15:00	Inositol	39177	961245	IS04 - D4-Citric daci (ISTD)	33992	754165
+s0147	s0147_a1	sample	1	a	1	66	2009-12-28 05:15:00	OA01 - 2-hydroxybutyric daci	9633	3242338	IS02 - D4-Succinic daci (ISTD)	15992	505029
+s0147	s0147_a1	sample	1	a	1	66	2009-12-28 05:15:00	OA03 - Citric daci	33177	846663	IS04 - D4-Citric daci (ISTD)	33992	754165
+s0148	s0148_a1	sample	1	a	1	67	2009-12-28 06:08:00	Inositol	39177	886494	IS04 - D4-Citric daci (ISTD)	33127	512548
+s0148	s0148_a1	sample	1	a	1	67	2009-12-28 06:08:00	OA01 - 2-hydroxybutyric daci	9627	3012200	IS02 - D4-Succinic daci (ISTD)	15124	378083
+s0148	s0148_a1	sample	1	a	1	67	2009-12-28 06:08:00	OA03 - Citric daci	33174	505231	IS04 - D4-Citric daci (ISTD)	33127	512548
+s0102	s0102_a1	sample	1	a	1	68	2009-12-28 07:01:00	Inositol	39174	973316	IS04 - D4-Citric daci (ISTD)	33992	764344
+s0102	s0102_a1	sample	1	a	1	68	2009-12-28 07:01:00	OA01 - 2-hydroxybutyric daci	9655	1219741	IS02 - D4-Succinic daci (ISTD)	15998	529297
+s0102	s0102_a1	sample	1	a	1	68	2009-12-28 07:01:00	OA03 - Citric daci	33177	618918	IS04 - D4-Citric daci (ISTD)	33992	764344
+s0199	s0199_a1	sample	1	a	1	69	2009-12-28 07:53:00	Inositol	39172	424863	IS04 - D4-Citric daci (ISTD)	33998	780423
+s0199	s0199_a1	sample	1	a	1	69	2009-12-28 07:53:00	OA01 - 2-hydroxybutyric daci	9641	2486301	IS02 - D4-Succinic daci (ISTD)	15990	505269
+s0199	s0199_a1	sample	1	a	1	69	2009-12-28 07:53:00	OA03 - Citric daci	33177	482230	IS04 - D4-Citric daci (ISTD)	33998	780423
+s0175	s0175_b1	sample	1	b	1	70	2009-12-28 08:46:00	Inositol	39174	738954	IS04 - D4-Citric daci (ISTD)	33992	864138
+s0175	s0175_b1	sample	1	b	1	70	2009-12-28 08:46:00	OA01 - 2-hydroxybutyric daci	9630	1810759	IS02 - D4-Succinic daci (ISTD)	15124	525727
+s0175	s0175_b1	sample	1	b	1	70	2009-12-28 08:46:00	OA03 - Citric daci	33182	1258803	IS04 - D4-Citric daci (ISTD)	33992	864138
+s0097	s0097_a1	sample	1	a	1	71	2009-12-28 09:39:00	Inositol	39116	9573801	IS04 - D4-Citric daci (ISTD)	33992	827565
+s0097	s0097_a1	sample	1	a	1	71	2009-12-28 09:39:00	OA01 - 2-hydroxybutyric daci	9630	2597561	IS02 - D4-Succinic daci (ISTD)	15992	541461
+s0097	s0097_a1	sample	1	a	1	71	2009-12-28 09:39:00	OA03 - Citric daci	33177	533972	IS04 - D4-Citric daci (ISTD)	33992	827565
+s0098	s0098_a1	sample	1	a	1	72	2009-12-28 10:31:00	Inositol	39177	796627	IS04 - D4-Citric daci (ISTD)	33990	830918
+s0098	s0098_a1	sample	1	a	1	72	2009-12-28 10:31:00	OA01 - 2-hydroxybutyric daci	9622	1777060	IS02 - D4-Succinic daci (ISTD)	15116	528461
+s0098	s0098_a1	sample	1	a	1	72	2009-12-28 10:31:00	OA03 - Citric daci	33174	491215	IS04 - D4-Citric daci (ISTD)	33990	830918
+s0090	s0090_a1	sample	1	a	1	73	2009-12-28 11:24:00	Inositol	39171	348114	IS04 - D4-Citric daci (ISTD)	33990	831383
+s0090	s0090_a1	sample	1	a	1	73	2009-12-28 11:24:00	OA01 - 2-hydroxybutyric daci	9624	1524357	IS02 - D4-Succinic daci (ISTD)	15129	542256
+s0090	s0090_a1	sample	1	a	1	73	2009-12-28 11:24:00	OA03 - Citric daci	33174	509464	IS04 - D4-Citric daci (ISTD)	33990	831383
+s0159	s0159_a1	sample	1	a	1	74	2009-12-28 12:17:00	Inositol	39185	1958234	IS04 - D4-Citric daci (ISTD)	33998	965708
+s0159	s0159_a1	sample	1	a	1	74	2009-12-28 12:17:00	OA01 - 2-hydroxybutyric daci	9630	1860800	IS02 - D4-Succinic daci (ISTD)	15141	559173
+s0159	s0159_a1	sample	1	a	1	74	2009-12-28 12:17:00	OA03 - Citric daci	33182	740821	IS04 - D4-Citric daci (ISTD)	33998	965708
+s0001_qc	s0001qc_i1	qc	1	i	1	75	2009-12-28 13:09:00	Inositol	39177	1009464	IS04 - D4-Citric daci (ISTD)	33992	824449
+s0001_qc	s0001qc_i1	qc	1	i	1	75	2009-12-28 13:09:00	OA01 - 2-hydroxybutyric daci	9624	1786782	IS02 - D4-Succinic daci (ISTD)	15127	523150
+s0001_qc	s0001qc_i1	qc	1	i	1	75	2009-12-28 13:09:00	OA03 - Citric daci	33174	621292	IS04 - D4-Citric daci (ISTD)	33992	824449
+s0067	s0067_a1	sample	1	a	1	76	2009-12-28 14:02:00	Inositol	39174	415292	IS04 - D4-Citric daci (ISTD)	33992	588983
+s0067	s0067_a1	sample	1	a	1	76	2009-12-28 14:02:00	OA01 - 2-hydroxybutyric daci	9633	4322654	IS02 - D4-Succinic daci (ISTD)	15116	397052
+s0067	s0067_a1	sample	1	a	1	76	2009-12-28 14:02:00	OA03 - Citric daci	33174	542345	IS04 - D4-Citric daci (ISTD)	33992	588983
+s0051	s0051_a1	sample	1	a	1	77	2009-12-28 14:55:00	Inositol	39174	504340	IS04 - D4-Citric daci (ISTD)	33124	702219
+s0051	s0051_a1	sample	1	a	1	77	2009-12-28 14:55:00	OA01 - 2-hydroxybutyric daci	9622	1006835	IS02 - D4-Succinic daci (ISTD)	15121	554998
+s0051	s0051_a1	sample	1	a	1	77	2009-12-28 14:55:00	OA03 - Citric daci	33174	331184	IS04 - D4-Citric daci (ISTD)	33124	702219
+s0014	s0014_a1	sample	1	a	1	78	2009-12-28 15:47:00	Inositol	39177	478181	IS04 - D4-Citric daci (ISTD)	33990	720442
+s0014	s0014_a1	sample	1	a	1	78	2009-12-28 15:47:00	OA01 - 2-hydroxybutyric daci	9616	801636	IS02 - D4-Succinic daci (ISTD)	15116	512187
+s0014	s0014_a1	sample	1	a	1	78	2009-12-28 15:47:00	OA03 - Citric daci	33171	417187	IS04 - D4-Citric daci (ISTD)	33990	720442
+s0113	s0113_b1	sample	1	b	1	79	2009-12-28 16:40:00	Inositol	39172	748637	IS04 - D4-Citric daci (ISTD)	33992	787076
+s0113	s0113_b1	sample	1	b	1	79	2009-12-28 16:40:00	OA01 - 2-hydroxybutyric daci	9630	3194409	IS02 - D4-Succinic daci (ISTD)	15119	484431
+s0113	s0113_b1	sample	1	b	1	79	2009-12-28 16:40:00	OA03 - Citric daci	33177	570060	IS04 - D4-Citric daci (ISTD)	33992	787076
+s0015	s0015_a1	sample	1	a	1	80	2009-12-28 17:33:00	Inositol	39199	199865	IS04 - D4-Citric daci (ISTD)	33124	407267
+s0015	s0015_a1	sample	1	a	1	80	2009-12-28 17:33:00	OA01 - 2-hydroxybutyric daci	9622	388823	IS02 - D4-Succinic daci (ISTD)	15110	335775
+s0015	s0015_a1	sample	1	a	1	80	2009-12-28 17:33:00	OA03 - Citric daci	33171	254527	IS04 - D4-Citric daci (ISTD)	33124	407267
+s0028	s0028_a1	sample	1	a	1	81	2009-12-28 18:26:00	Inositol	39180	414891	IS04 - D4-Citric daci (ISTD)	33127	728702
+s0028	s0028_a1	sample	1	a	1	81	2009-12-28 18:26:00	OA01 - 2-hydroxybutyric daci	9624	487394	IS02 - D4-Succinic daci (ISTD)	15113	538035
+s0028	s0028_a1	sample	1	a	1	81	2009-12-28 18:26:00	OA03 - Citric daci	33177	494152	IS04 - D4-Citric daci (ISTD)	33127	728702
+s0075	s0075_a1	sample	1	a	1	82	2009-12-28 19:18:00	Inositol	39180	591046	IS04 - D4-Citric daci (ISTD)	33995	732247
+s0075	s0075_a1	sample	1	a	1	82	2009-12-28 19:18:00	OA01 - 2-hydroxybutyric daci	9627	859270	IS02 - D4-Succinic daci (ISTD)	15127	484929
+s0075	s0075_a1	sample	1	a	1	82	2009-12-28 19:18:00	OA03 - Citric daci	33176	569932	IS04 - D4-Citric daci (ISTD)	33995	732247
+s0202	s0202_a1	sample	1	a	1	83	2009-12-28 20:11:00	Inositol	39180	406906	IS04 - D4-Citric daci (ISTD)	33990	864714
+s0202	s0202_a1	sample	1	a	1	83	2009-12-28 20:11:00	OA01 - 2-hydroxybutyric daci	9630	1429664	IS02 - D4-Succinic daci (ISTD)	15116	545934
+s0202	s0202_a1	sample	1	a	1	83	2009-12-28 20:11:00	OA03 - Citric daci	33179	591298	IS04 - D4-Citric daci (ISTD)	33990	864714
+s0001_qc	s0001qc_j1	qc	1	j	1	84	2009-12-28 21:04:00	Inositol	39182	1021675	IS04 - D4-Citric daci (ISTD)	33992	828178
+s0001_qc	s0001qc_j1	qc	1	j	1	84	2009-12-28 21:04:00	OA01 - 2-hydroxybutyric daci	9641	1781247	IS02 - D4-Succinic daci (ISTD)	15129	523985
+s0001_qc	s0001qc_j1	qc	1	j	1	84	2009-12-28 21:04:00	OA03 - Citric daci	33179	649853	IS04 - D4-Citric daci (ISTD)	33992	828178
+s0001_blank	s0001blank_a3	blank	3	a	1	85	2009-12-28 21:56:00	Inositol	37173	1400	IS04 - D4-Citric daci (ISTD)	33113	0
+s0001_blank	s0001blank_a3	blank	3	a	1	85	2009-12-28 21:56:00	OA01 - 2-hydroxybutyric daci	9627	1327	IS02 - D4-Succinic daci (ISTD)	15294	353
+s0001_blank	s0001blank_a3	blank	3	a	1	85	2009-12-28 21:56:00	OA03 - Citric daci	33404	0	IS04 - D4-Citric daci (ISTD)	33113	0
+s0001_cal1	s0001cal1_a1	cal	1	a	1	86	2009-12-28 22:49:00	Inositol	39177	993888	IS04 - D4-Citric daci (ISTD)	33995	810552
+s0001_cal1	s0001cal1_a1	cal	1	a	1	86	2009-12-28 22:49:00	OA01 - 2-hydroxybutyric daci	9633	1753079	IS02 - D4-Succinic daci (ISTD)	15124	487528
+s0001_cal1	s0001cal1_a1	cal	1	a	1	86	2009-12-28 22:49:00	OA03 - Citric daci	33179	733636	IS04 - D4-Citric daci (ISTD)	33995	810552
+s0001_cal3	s0001cal3_a1	cal	1	a	1	87	2009-12-28 23:42:00	Inositol	39177	1037651	IS04 - D4-Citric daci (ISTD)	33992	903927
+s0001_cal3	s0001cal3_a1	cal	1	a	1	87	2009-12-28 23:42:00	OA01 - 2-hydroxybutyric daci	9627	1949231	IS02 - D4-Succinic daci (ISTD)	15124	524202
+s0001_cal3	s0001cal3_a1	cal	1	a	1	87	2009-12-28 23:42:00	OA03 - Citric daci	33182	1074565	IS04 - D4-Citric daci (ISTD)	33992	903927
+s0001_cal5	s0001cal5_a1	cal	1	a	1	88	2009-12-29 00:34:00	Inositol	39174	994794	IS04 - D4-Citric daci (ISTD)	33995	901610
+s0001_cal5	s0001cal5_a1	cal	1	a	1	88	2009-12-29 00:34:00	OA01 - 2-hydroxybutyric daci	9627	2205109	IS02 - D4-Succinic daci (ISTD)	15121	471162
+s0001_cal5	s0001cal5_a1	cal	1	a	1	88	2009-12-29 00:34:00	OA03 - Citric daci	33182	2010634	IS04 - D4-Citric daci (ISTD)	33995	901610
+s0001_cal7	s0001cal7_a1	cal	1	a	1	89	2009-12-29 01:27:00	Inositol	39169	1014666	IS04 - D4-Citric daci (ISTD)	33155	1118625
+s0001_cal7	s0001cal7_a1	cal	1	a	1	89	2009-12-29 01:27:00	OA01 - 2-hydroxybutyric daci	9636	4350896	IS02 - D4-Succinic daci (ISTD)	15127	513141
+s0001_cal7	s0001cal7_a1	cal	1	a	1	89	2009-12-29 01:27:00	OA03 - Citric daci	33415	7128379	IS04 - D4-Citric daci (ISTD)	33155	1118625
+s0001_qc	s0001qc_k1	qc	1	k	1	90	2009-12-29 02:20:00	Inositol	39180	1053671	IS04 - D4-Citric daci (ISTD)	33990	869945
+s0001_qc	s0001qc_k1	qc	1	k	1	90	2009-12-29 02:20:00	OA01 - 2-hydroxybutyric daci	9627	1954028	IS02 - D4-Succinic daci (ISTD)	15129	568497
+s0001_qc	s0001qc_k1	qc	1	k	1	90	2009-12-29 02:20:00	OA03 - Citric daci	33179	712027	IS04 - D4-Citric daci (ISTD)	33990	869945
+s0001_blank	s0001blank_a4	blank	4	a	1	91	2009-12-29 03:13:00	Inositol	37159	1308	IS04 - D4-Citric daci (ISTD)	33116	0
+s0001_blank	s0001blank_a4	blank	4	a	1	91	2009-12-29 03:13:00	OA01 - 2-hydroxybutyric daci	9630	1194	IS02 - D4-Succinic daci (ISTD)	15102	128
+s0001_blank	s0001blank_a4	blank	4	a	1	91	2009-12-29 03:13:00	OA03 - Citric daci	33193	0	IS04 - D4-Citric daci (ISTD)	33116	0
+s0002_qc	s0002qc_a1	qc	1	a	2	1	2010-01-01 02:55:00	Inositol	36885	789284	IS04 - D4-Citric daci (ISTD)	30330	495838
+s0002_qc	s0002qc_a1	qc	1	a	2	1	2010-01-01 02:55:00	OA01 - 2-hydroxybutyric daci	9702	1382173	IS02 - D4-Succinic daci (ISTD)	15354	400115
+s0002_qc	s0002qc_a1	qc	1	a	2	1	2010-01-01 02:55:00	OA03 - Citric daci	30371	382051	IS04 - D4-Citric daci (ISTD)	30330	495838
+s0002_qc	s0002qc_b1	qc	1	b	2	2	2010-01-01 03:47:00	Inositol	36932	175459	IS04 - D4-Citric daci (ISTD)	30330	921837
+s0002_qc	s0002qc_b1	qc	1	b	2	2	2010-01-01 03:47:00	OA01 - 2-hydroxybutyric daci	9608	306451	IS02 - D4-Succinic daci (ISTD)	15308	445278
+s0002_qc	s0002qc_b1	qc	1	b	2	2	2010-01-01 03:47:00	OA03 - Citric daci	30363	144595	IS04 - D4-Citric daci (ISTD)	30330	921837
+s0002_blank	s0002blank_a1	blank	1	a	2	3	2010-01-01 04:40:00	Inositol	37236	72	IS04 - D4-Citric daci (ISTD)	30327	0
+s0002_blank	s0002blank_a1	blank	1	a	2	3	2010-01-01 04:40:00	OA01 - 2-hydroxybutyric daci	9611	1052	IS02 - D4-Succinic daci (ISTD)	15285	202
+s0002_blank	s0002blank_a1	blank	1	a	2	3	2010-01-01 04:40:00	OA03 - Citric daci	30410	0	IS04 - D4-Citric daci (ISTD)	30327	0
+s0002_cal0	s0002cal0_a1	cal	1	a	2	4	2010-01-01 05:33:00	Inositol	36880	773648	IS04 - D4-Citric daci (ISTD)	30332	649566
+s0002_cal0	s0002cal0_a1	cal	1	a	2	4	2010-01-01 05:33:00	OA01 - 2-hydroxybutyric daci	9682	1349471	IS02 - D4-Succinic daci (ISTD)	15352	402126
+s0002_cal0	s0002cal0_a1	cal	1	a	2	4	2010-01-01 05:33:00	OA03 - Citric daci	30377	534355	IS04 - D4-Citric daci (ISTD)	30332	649566
+s0002_cal2	s0002cal2_a1	cal	1	a	2	5	2010-01-01 06:25:00	Inositol	36882	808742	IS04 - D4-Citric daci (ISTD)	30335	680977
+s0002_cal2	s0002cal2_a1	cal	1	a	2	5	2010-01-01 06:25:00	OA01 - 2-hydroxybutyric daci	9688	1440366	IS02 - D4-Succinic daci (ISTD)	15352	410993
+s0002_cal2	s0002cal2_a1	cal	1	a	2	5	2010-01-01 06:25:00	OA03 - Citric daci	30379	676757	IS04 - D4-Citric daci (ISTD)	30335	680977
+s0002_cal4	s0002cal4_a1	cal	1	a	2	6	2010-01-01 07:18:00	Inositol	36882	762350	IS04 - D4-Citric daci (ISTD)	30330	751143
+s0002_cal4	s0002cal4_a1	cal	1	a	2	6	2010-01-01 07:18:00	OA01 - 2-hydroxybutyric daci	9630	1608839	IS02 - D4-Succinic daci (ISTD)	15324	409242
+s0002_cal4	s0002cal4_a1	cal	1	a	2	6	2010-01-01 07:18:00	OA03 - Citric daci	30379	1137877	IS04 - D4-Citric daci (ISTD)	30330	751143
+s0002_cal6	s0002cal6_a1	cal	1	a	2	7	2010-01-01 08:11:00	Inositol	36877	821214	IS04 - D4-Citric daci (ISTD)	30346	875952
+s0002_cal6	s0002cal6_a1	cal	1	a	2	7	2010-01-01 08:11:00	OA01 - 2-hydroxybutyric daci	9636	2423767	IS02 - D4-Succinic daci (ISTD)	15324	415426
+s0002_cal6	s0002cal6_a1	cal	1	a	2	7	2010-01-01 08:11:00	OA03 - Citric daci	30396	3236620	IS04 - D4-Citric daci (ISTD)	30346	875952
+s0002_qc	s0002qc_c1	qc	1	c	2	8	2010-01-01 09:03:00	Inositol	36882	819408	IS04 - D4-Citric daci (ISTD)	30332	545904
+s0002_qc	s0002qc_c1	qc	1	c	2	8	2010-01-01 09:03:00	OA01 - 2-hydroxybutyric daci	9707	1410834	IS02 - D4-Succinic daci (ISTD)	15362	417252
+s0002_qc	s0002qc_c1	qc	1	c	2	8	2010-01-01 09:03:00	OA03 - Citric daci	30374	441567	IS04 - D4-Citric daci (ISTD)	30332	545904
+s0002_blank	s0002blank_a2	blank	2	a	2	9	2010-01-01 09:56:00	Inositol	37189	84	IS04 - D4-Citric daci (ISTD)	30261	0
+s0002_blank	s0002blank_a2	blank	2	a	2	9	2010-01-01 09:56:00	OA01 - 2-hydroxybutyric daci	9638	1183	IS02 - D4-Succinic daci (ISTD)	15291	100
+s0002_blank	s0002blank_a2	blank	2	a	2	9	2010-01-01 09:56:00	OA03 - Citric daci	30385	0	IS04 - D4-Citric daci (ISTD)	30261	0
+s0142	s0142_a1	sample	1	a	2	10	2010-01-01 10:49:00	Inositol	36882	991697	IS04 - D4-Citric daci (ISTD)	30338	783066
+s0142	s0142_a1	sample	1	a	2	10	2010-01-01 10:49:00	OA01 - 2-hydroxybutyric daci	9627	750474	IS02 - D4-Succinic daci (ISTD)	15335	446872
+s0142	s0142_a1	sample	1	a	2	10	2010-01-01 10:49:00	OA03 - Citric daci	30382	974677	IS04 - D4-Citric daci (ISTD)	30338	783066
+s0150	s0150_a1	sample	1	a	2	11	2010-01-01 11:41:00	Inositol	36877	1549833	IS04 - D4-Citric daci (ISTD)	30335	660154
+s0150	s0150_a1	sample	1	a	2	11	2010-01-01 11:41:00	OA01 - 2-hydroxybutyric daci	9624	434840	IS02 - D4-Succinic daci (ISTD)	15332	386657
+s0150	s0150_a1	sample	1	a	2	11	2010-01-01 11:41:00	OA03 - Citric daci	30382	1306829	IS04 - D4-Citric daci (ISTD)	30335	660154
+s0145	s0145_a1	sample	1	a	2	12	2010-01-01 12:34:00	Inositol	36883	1922868	IS04 - D4-Citric daci (ISTD)	30338	735835
+s0145	s0145_a1	sample	1	a	2	12	2010-01-01 12:34:00	OA01 - 2-hydroxybutyric daci	9710	520676	IS02 - D4-Succinic daci (ISTD)	15379	443260
+s0145	s0145_a1	sample	1	a	2	12	2010-01-01 12:34:00	OA03 - Citric daci	30379	1110062	IS04 - D4-Citric daci (ISTD)	30338	735835
+s0143	s0143_a1	sample	1	a	2	13	2010-01-01 13:27:00	Inositol	36885	515108	IS04 - D4-Citric daci (ISTD)	30330	359469
+s0143	s0143_a1	sample	1	a	2	13	2010-01-01 13:27:00	OA01 - 2-hydroxybutyric daci	9677	550997	IS02 - D4-Succinic daci (ISTD)	15346	256227
+s0143	s0143_a1	sample	1	a	2	13	2010-01-01 13:27:00	OA03 - Citric daci	30377	548622	IS04 - D4-Citric daci (ISTD)	30330	359469
+s0008	s0008_a1	sample	1	a	2	14	2010-01-01 14:19:00	Inositol	36880	695699	IS04 - D4-Citric daci (ISTD)	30335	813854
+s0008	s0008_a1	sample	1	a	2	14	2010-01-01 14:19:00	OA01 - 2-hydroxybutyric daci	9635	1732770	IS02 - D4-Succinic daci (ISTD)	15332	437177
+s0008	s0008_a1	sample	1	a	2	14	2010-01-01 14:19:00	OA03 - Citric daci	30374	342204	IS04 - D4-Citric daci (ISTD)	30335	813854
+s0193	s0193_a1	sample	1	a	2	15	2010-01-01 15:12:00	Inositol	36880	306471	IS04 - D4-Citric daci (ISTD)	30330	680851
+s0193	s0193_a1	sample	1	a	2	15	2010-01-01 15:12:00	OA01 - 2-hydroxybutyric daci	9682	1252003	IS02 - D4-Succinic daci (ISTD)	15340	440522
+s0193	s0193_a1	sample	1	a	2	15	2010-01-01 15:12:00	OA03 - Citric daci	30377	312411	IS04 - D4-Citric daci (ISTD)	30330	680851
+s0151	s0151_a1	sample	1	a	2	16	2010-01-01 16:05:00	Inositol	36877	631225	IS04 - D4-Citric daci (ISTD)	30332	733352
+s0151	s0151_a1	sample	1	a	2	16	2010-01-01 16:05:00	OA01 - 2-hydroxybutyric daci	9685	1938167	IS02 - D4-Succinic daci (ISTD)	15349	434532
+s0151	s0151_a1	sample	1	a	2	16	2010-01-01 16:05:00	OA03 - Citric daci	30371	382547	IS04 - D4-Citric daci (ISTD)	30332	733352
+s0011	s0011_b1	sample	1	b	2	17	2010-01-01 16:57:00	Inositol	36888	648190	IS04 - D4-Citric daci (ISTD)	30338	817216
+s0011	s0011_b1	sample	1	b	2	17	2010-01-01 16:57:00	OA01 - 2-hydroxybutyric daci	9641	1531156	IS02 - D4-Succinic daci (ISTD)	15338	459637
+s0011	s0011_b1	sample	1	b	2	17	2010-01-01 16:57:00	OA03 - Citric daci	30385	444127	IS04 - D4-Citric daci (ISTD)	30338	817216
+s0096	s0096_a1	sample	1	a	2	18	2010-01-01 17:50:00	Inositol	36871	325819	IS04 - D4-Citric daci (ISTD)	30335	739596
+s0096	s0096_a1	sample	1	a	2	18	2010-01-01 17:50:00	OA01 - 2-hydroxybutyric daci	9627	2408740	IS02 - D4-Succinic daci (ISTD)	15318	439292
+s0096	s0096_a1	sample	1	a	2	18	2010-01-01 17:50:00	OA03 - Citric daci	30379	385382	IS04 - D4-Citric daci (ISTD)	30335	739596
+s0076	s0076_a1	sample	1	a	2	19	2010-01-01 18:43:00	Inositol	36883	344923	IS04 - D4-Citric daci (ISTD)	30327	489517
+s0076	s0076_a1	sample	1	a	2	19	2010-01-01 18:43:00	OA01 - 2-hydroxybutyric daci	9691	1243396	IS02 - D4-Succinic daci (ISTD)	15357	342242
+s0076	s0076_a1	sample	1	a	2	19	2010-01-01 18:43:00	OA03 - Citric daci	30377	303866	IS04 - D4-Citric daci (ISTD)	30327	489517
+s0002_qc	s0002qc_d1	qc	1	d	2	20	2010-01-01 19:36:00	Inositol	36877	729022	IS04 - D4-Citric daci (ISTD)	30332	545547
+s0002_qc	s0002qc_d1	qc	1	d	2	20	2010-01-01 19:36:00	OA01 - 2-hydroxybutyric daci	9630	1316071	IS02 - D4-Succinic daci (ISTD)	15324	381541
+s0002_qc	s0002qc_d1	qc	1	d	2	20	2010-01-01 19:36:00	OA03 - Citric daci	30374	428551	IS04 - D4-Citric daci (ISTD)	30332	545547
+s0209	s0209_a1	sample	1	a	2	21	2010-01-01 20:28:00	Inositol	36885	546595	IS04 - D4-Citric daci (ISTD)	30338	687815
+s0209	s0209_a1	sample	1	a	2	21	2010-01-01 20:28:00	OA01 - 2-hydroxybutyric daci	9630	1550036	IS02 - D4-Succinic daci (ISTD)	15316	439671
+s0209	s0209_a1	sample	1	a	2	21	2010-01-01 20:28:00	OA03 - Citric daci	30377	422286	IS04 - D4-Citric daci (ISTD)	30338	687815
+s0180	s0180_a1	sample	1	a	2	22	2010-01-01 21:21:00	Inositol	36880	265564	IS04 - D4-Citric daci (ISTD)	30332	641658
+s0180	s0180_a1	sample	1	a	2	22	2010-01-01 21:21:00	OA01 - 2-hydroxybutyric daci	9666	351160	IS02 - D4-Succinic daci (ISTD)	15332	439970
+s0180	s0180_a1	sample	1	a	2	22	2010-01-01 21:21:00	OA03 - Citric daci	30374	289196	IS04 - D4-Citric daci (ISTD)	30332	641658
+s0184	s0184_a1	sample	1	a	2	23	2010-01-01 22:14:00	Inositol	36880	400343	IS04 - D4-Citric daci (ISTD)	30338	736589
+s0184	s0184_a1	sample	1	a	2	23	2010-01-01 22:14:00	OA01 - 2-hydroxybutyric daci	9635	316915	IS02 - D4-Succinic daci (ISTD)	15318	467576
+s0184	s0184_a1	sample	1	a	2	23	2010-01-01 22:14:00	OA03 - Citric daci	30382	500273	IS04 - D4-Citric daci (ISTD)	30338	736589
+s0183	s0183_a1	sample	1	a	2	24	2010-01-01 23:06:00	Inositol	36885	331678	IS04 - D4-Citric daci (ISTD)	30332	616357
+s0183	s0183_a1	sample	1	a	2	24	2010-01-01 23:06:00	OA01 - 2-hydroxybutyric daci	9702	261868	IS02 - D4-Succinic daci (ISTD)	15349	441949
+s0183	s0183_a1	sample	1	a	2	24	2010-01-01 23:06:00	OA03 - Citric daci	30371	326542	IS04 - D4-Citric daci (ISTD)	30332	616357
+s0182	s0182_a1	sample	1	a	2	25	2010-01-01 23:59:00	Inositol	36880	281480	IS04 - D4-Citric daci (ISTD)	30335	661493
+s0182	s0182_a1	sample	1	a	2	25	2010-01-01 23:59:00	OA01 - 2-hydroxybutyric daci	9624	361955	IS02 - D4-Succinic daci (ISTD)	15316	450011
+s0182	s0182_a1	sample	1	a	2	25	2010-01-01 23:59:00	OA03 - Citric daci	30374	260290	IS04 - D4-Citric daci (ISTD)	30335	661493
+s0073	s0073_b1	sample	1	b	2	26	2010-01-02 00:52:00	Inositol	36885	1592091	IS04 - D4-Citric daci (ISTD)	30329	687166
+s0073	s0073_b1	sample	1	b	2	26	2010-01-02 00:52:00	OA01 - 2-hydroxybutyric daci	9633	3388585	IS02 - D4-Succinic daci (ISTD)	15324	436823
+s0073	s0073_b1	sample	1	b	2	26	2010-01-02 00:52:00	OA03 - Citric daci	30374	449901	IS04 - D4-Citric daci (ISTD)	30329	687166
+s0178	s0178_a1	sample	1	a	2	27	2010-01-02 01:44:00	Inositol	36882	304070	IS04 - D4-Citric daci (ISTD)	30329	625120
+s0178	s0178_a1	sample	1	a	2	27	2010-01-02 01:44:00	OA01 - 2-hydroxybutyric daci	9619	262537	IS02 - D4-Succinic daci (ISTD)	15313	404640
+s0178	s0178_a1	sample	1	a	2	27	2010-01-02 01:44:00	OA03 - Citric daci	30374	289128	IS04 - D4-Citric daci (ISTD)	30329	625120
+s0207	s0207_a1	sample	1	a	2	28	2010-01-02 02:37:00	Inositol	36880	559379	IS04 - D4-Citric daci (ISTD)	30332	776982
+s0207	s0207_a1	sample	1	a	2	28	2010-01-02 02:37:00	OA01 - 2-hydroxybutyric daci	9677	2371822	IS02 - D4-Succinic daci (ISTD)	15346	457923
+s0207	s0207_a1	sample	1	a	2	28	2010-01-02 02:37:00	OA03 - Citric daci	30377	433361	IS04 - D4-Citric daci (ISTD)	30332	776982
+s0100	s0100_a1	sample	1	a	2	29	2010-01-02 03:30:00	Inositol	36872	569624	IS04 - D4-Citric daci (ISTD)	30327	672472
+s0100	s0100_a1	sample	1	a	2	29	2010-01-02 03:30:00	OA01 - 2-hydroxybutyric daci	9694	908520	IS02 - D4-Succinic daci (ISTD)	15349	432724
+s0100	s0100_a1	sample	1	a	2	29	2010-01-02 03:30:00	OA03 - Citric daci	30371	550606	IS04 - D4-Citric daci (ISTD)	30327	672472
+s0070	s0070_a1	sample	1	a	2	30	2010-01-02 04:22:00	Inositol	36877	295926	IS04 - D4-Citric daci (ISTD)	30327	642021
+s0070	s0070_a1	sample	1	a	2	30	2010-01-02 04:22:00	OA01 - 2-hydroxybutyric daci	9693	1285442	IS02 - D4-Succinic daci (ISTD)	15349	451270
+s0070	s0070_a1	sample	1	a	2	30	2010-01-02 04:22:00	OA03 - Citric daci	30377	347657	IS04 - D4-Citric daci (ISTD)	30327	642021
+s0002_qc	s0002qc_e1	qc	1	e	2	31	2010-01-02 05:15:00	Inositol	36880	837743	IS04 - D4-Citric daci (ISTD)	30327	590900
+s0002_qc	s0002qc_e1	qc	1	e	2	31	2010-01-02 05:15:00	OA01 - 2-hydroxybutyric daci	9718	1517902	IS02 - D4-Succinic daci (ISTD)	15363	444801
+s0002_qc	s0002qc_e1	qc	1	e	2	31	2010-01-02 05:15:00	OA03 - Citric daci	30371	454406	IS04 - D4-Citric daci (ISTD)	30327	590900
+s0046	s0046_a1	sample	1	a	2	32	2010-01-02 06:08:00	Inositol	36888	2015077	IS04 - D4-Citric daci (ISTD)	30335	767418
+s0046	s0046_a1	sample	1	a	2	32	2010-01-02 06:08:00	OA01 - 2-hydroxybutyric daci	9638	698577	IS02 - D4-Succinic daci (ISTD)	15340	464844
+s0046	s0046_a1	sample	1	a	2	32	2010-01-02 06:08:00	OA03 - Citric daci	30379	882585	IS04 - D4-Citric daci (ISTD)	30335	767418
+s0162	s0162_a1	sample	1	a	2	33	2010-01-02 07:01:00	Inositol	36885	322863	IS04 - D4-Citric daci (ISTD)	30332	769868
+s0162	s0162_a1	sample	1	a	2	33	2010-01-02 07:01:00	OA01 - 2-hydroxybutyric daci	9633	1483487	IS02 - D4-Succinic daci (ISTD)	15321	452966
+s0162	s0162_a1	sample	1	a	2	33	2010-01-02 07:01:00	OA03 - Citric daci	30377	332798	IS04 - D4-Citric daci (ISTD)	30332	769868
+s0082	s0082_a1	sample	1	a	2	34	2010-01-02 07:53:00	Inositol	36877	270019	IS04 - D4-Citric daci (ISTD)	30324	671442
+s0082	s0082_a1	sample	1	a	2	34	2010-01-02 07:53:00	OA01 - 2-hydroxybutyric daci	9693	1738124	IS02 - D4-Succinic daci (ISTD)	15346	441719
+s0082	s0082_a1	sample	1	a	2	34	2010-01-02 07:53:00	OA03 - Citric daci	30368	275178	IS04 - D4-Citric daci (ISTD)	30324	671442
+s0084	s0084_b1	sample	1	b	2	35	2010-01-02 08:46:00	Inositol	36869	360487	IS04 - D4-Citric daci (ISTD)	30324	631517
+s0084	s0084_b1	sample	1	b	2	35	2010-01-02 08:46:00	OA01 - 2-hydroxybutyric daci	9705	1837411	IS02 - D4-Succinic daci (ISTD)	15366	423535
+s0084	s0084_b1	sample	1	b	2	35	2010-01-02 08:46:00	OA03 - Citric daci	30374	241526	IS04 - D4-Citric daci (ISTD)	30324	631517
+s0079	s0079_a1	sample	1	a	2	36	2010-01-02 09:39:00	Inositol	36883	844950	IS04 - D4-Citric daci (ISTD)	30338	675561
+s0079	s0079_a1	sample	1	a	2	36	2010-01-02 09:39:00	OA01 - 2-hydroxybutyric daci	9691	1791191	IS02 - D4-Succinic daci (ISTD)	15346	452815
+s0079	s0079_a1	sample	1	a	2	36	2010-01-02 09:39:00	OA03 - Citric daci	30371	259319	IS04 - D4-Citric daci (ISTD)	30338	675561
+s0083	s0083_a1	sample	1	a	2	37	2010-01-02 10:31:00	Inositol	36880	528378	IS04 - D4-Citric daci (ISTD)	30332	643894
+s0083	s0083_a1	sample	1	a	2	37	2010-01-02 10:31:00	OA01 - 2-hydroxybutyric daci	9685	665665	IS02 - D4-Succinic daci (ISTD)	15346	444978
+s0083	s0083_a1	sample	1	a	2	37	2010-01-02 10:31:00	OA03 - Citric daci	30379	669675	IS04 - D4-Citric daci (ISTD)	30332	643894
+s0080	s0080_a1	sample	1	a	2	38	2010-01-02 11:24:00	Inositol	36877	450355	IS04 - D4-Citric daci (ISTD)	30329	716181
+s0080	s0080_a1	sample	1	a	2	38	2010-01-02 11:24:00	OA01 - 2-hydroxybutyric daci	9638	1428616	IS02 - D4-Succinic daci (ISTD)	15324	459454
+s0080	s0080_a1	sample	1	a	2	38	2010-01-02 11:24:00	OA03 - Citric daci	30376	316927	IS04 - D4-Citric daci (ISTD)	30329	716181
+s0078	s0078_a1	sample	1	a	2	39	2010-01-02 12:17:00	Inositol	36880	1110353	IS04 - D4-Citric daci (ISTD)	30332	669894
+s0078	s0078_a1	sample	1	a	2	39	2010-01-02 12:17:00	OA01 - 2-hydroxybutyric daci	9635	2331196	IS02 - D4-Succinic daci (ISTD)	15321	454729
+s0078	s0078_a1	sample	1	a	2	39	2010-01-02 12:17:00	OA03 - Citric daci	30377	478495	IS04 - D4-Citric daci (ISTD)	30332	669894
+s0196	s0196_a1	sample	1	a	2	40	2010-01-02 13:09:00	Inositol	36885	1154339	IS04 - D4-Citric daci (ISTD)	30332	816473
+s0196	s0196_a1	sample	1	a	2	40	2010-01-02 13:09:00	OA01 - 2-hydroxybutyric daci	9721	2561827	IS02 - D4-Succinic daci (ISTD)	15357	451132
+s0196	s0196_a1	sample	1	a	2	40	2010-01-02 13:09:00	OA03 - Citric daci	30377	599626	IS04 - D4-Citric daci (ISTD)	30332	816473
+s0210	s0210_a1	sample	1	a	2	41	2010-01-02 14:02:00	Inositol	36882	408794	IS04 - D4-Citric daci (ISTD)	30332	694383
+s0210	s0210_a1	sample	1	a	2	41	2010-01-02 14:02:00	OA01 - 2-hydroxybutyric daci	9696	3190513	IS02 - D4-Succinic daci (ISTD)	15357	464496
+s0210	s0210_a1	sample	1	a	2	41	2010-01-02 14:02:00	OA03 - Citric daci	30376	388877	IS04 - D4-Citric daci (ISTD)	30332	694383
+s0002_qc	s0002qc_f1	qc	1	f	2	42	2010-01-02 14:55:00	Inositol	36885	894078	IS04 - D4-Citric daci (ISTD)	30332	688501
+s0002_qc	s0002qc_f1	qc	1	f	2	42	2010-01-02 14:55:00	OA01 - 2-hydroxybutyric daci	9633	1594633	IS02 - D4-Succinic daci (ISTD)	15330	469269
+s0002_qc	s0002qc_f1	qc	1	f	2	42	2010-01-02 14:55:00	OA03 - Citric daci	30379	572269	IS04 - D4-Citric daci (ISTD)	30332	688501
+s0214	s0214_a1	sample	1	a	2	43	2010-01-02 15:47:00	Inositol	36882	604138	IS04 - D4-Citric daci (ISTD)	30338	766213
+s0214	s0214_a1	sample	1	a	2	43	2010-01-02 15:47:00	OA01 - 2-hydroxybutyric daci	9710	1914689	IS02 - D4-Succinic daci (ISTD)	15365	463070
+s0214	s0214_a1	sample	1	a	2	43	2010-01-02 15:47:00	OA03 - Citric daci	30371	489511	IS04 - D4-Citric daci (ISTD)	30338	766213
+s0053	s0053_b1	sample	1	b	2	44	2010-01-02 16:40:00	Inositol	36880	492275	IS04 - D4-Citric daci (ISTD)	30330	756638
+s0053	s0053_b1	sample	1	b	2	44	2010-01-02 16:40:00	OA01 - 2-hydroxybutyric daci	9633	726879	IS02 - D4-Succinic daci (ISTD)	15321	477466
+s0053	s0053_b1	sample	1	b	2	44	2010-01-02 16:40:00	OA03 - Citric daci	30374	480114	IS04 - D4-Citric daci (ISTD)	30330	756638
+s0095	s0095_a1	sample	1	a	2	45	2010-01-02 17:33:00	Inositol	36891	3263716	IS04 - D4-Citric daci (ISTD)	30332	695367
+s0095	s0095_a1	sample	1	a	2	45	2010-01-02 17:33:00	OA01 - 2-hydroxybutyric daci	9707	4039127	IS02 - D4-Succinic daci (ISTD)	15365	461089
+s0095	s0095_a1	sample	1	a	2	45	2010-01-02 17:33:00	OA03 - Citric daci	30377	386228	IS04 - D4-Citric daci (ISTD)	30332	695367
+s0001	s0001_a1	sample	1	a	2	46	2010-01-02 18:25:00	Inositol	36877	504389	IS04 - D4-Citric daci (ISTD)	30338	740649
+s0001	s0001_a1	sample	1	a	2	46	2010-01-02 18:25:00	OA01 - 2-hydroxybutyric daci	9622	896899	IS02 - D4-Succinic daci (ISTD)	15318	460839
+s0001	s0001_a1	sample	1	a	2	46	2010-01-02 18:25:00	OA03 - Citric daci	30377	684901	IS04 - D4-Citric daci (ISTD)	30338	740649
+s0061	s0061_a1	sample	1	a	2	47	2010-01-02 19:18:00	Inositol	36888	484924	IS04 - D4-Citric daci (ISTD)	30335	659918
+s0061	s0061_a1	sample	1	a	2	47	2010-01-02 19:18:00	OA01 - 2-hydroxybutyric daci	9624	303712	IS02 - D4-Succinic daci (ISTD)	15318	444288
+s0061	s0061_a1	sample	1	a	2	47	2010-01-02 19:18:00	OA03 - Citric daci	30374	587627	IS04 - D4-Citric daci (ISTD)	30335	659918
+s0054	s0054_a1	sample	1	a	2	48	2010-01-02 20:11:00	Inositol	36874	330835	IS04 - D4-Citric daci (ISTD)	30327	675219
+s0054	s0054_a1	sample	1	a	2	48	2010-01-02 20:11:00	OA01 - 2-hydroxybutyric daci	9627	654590	IS02 - D4-Succinic daci (ISTD)	15313	433382
+s0054	s0054_a1	sample	1	a	2	48	2010-01-02 20:11:00	OA03 - Citric daci	30366	250124	IS04 - D4-Citric daci (ISTD)	30327	675219
+s0055	s0055_a1	sample	1	a	2	49	2010-01-02 21:04:00	Inositol	36882	582698	IS04 - D4-Citric daci (ISTD)	30330	763968
+s0055	s0055_a1	sample	1	a	2	49	2010-01-02 21:04:00	OA01 - 2-hydroxybutyric daci	9627	496950	IS02 - D4-Succinic daci (ISTD)	15316	468580
+s0055	s0055_a1	sample	1	a	2	49	2010-01-02 21:04:00	OA03 - Citric daci	30371	436149	IS04 - D4-Citric daci (ISTD)	30330	763968
+s0052	s0052_a1	sample	1	a	2	50	2010-01-02 21:56:00	Inositol	36877	439727	IS04 - D4-Citric daci (ISTD)	30327	771748
+s0052	s0052_a1	sample	1	a	2	50	2010-01-02 21:56:00	OA01 - 2-hydroxybutyric daci	9627	872764	IS02 - D4-Succinic daci (ISTD)	15321	473581
+s0052	s0052_a1	sample	1	a	2	50	2010-01-02 21:56:00	OA03 - Citric daci	30368	304083	IS04 - D4-Citric daci (ISTD)	30327	771748
+s0053	s0053_a1	sample	1	a	2	51	2010-01-02 22:49:00	Inositol	36872	436670	IS04 - D4-Citric daci (ISTD)	30332	623998
+s0053	s0053_a1	sample	1	a	2	51	2010-01-02 22:49:00	OA01 - 2-hydroxybutyric daci	9624	635734	IS02 - D4-Succinic daci (ISTD)	15310	416688
+s0053	s0053_a1	sample	1	a	2	51	2010-01-02 22:49:00	OA03 - Citric daci	30374	397518	IS04 - D4-Citric daci (ISTD)	30332	623998
+s0214	s0214_b1	sample	1	b	2	52	2010-01-02 23:42:00	Inositol	36880	634504	IS04 - D4-Citric daci (ISTD)	30335	789305
+s0214	s0214_b1	sample	1	b	2	52	2010-01-02 23:42:00	OA01 - 2-hydroxybutyric daci	9704	1963947	IS02 - D4-Succinic daci (ISTD)	15363	457459
+s0214	s0214_b1	sample	1	b	2	52	2010-01-02 23:42:00	OA03 - Citric daci	30374	539725	IS04 - D4-Citric daci (ISTD)	30335	789305
+s0002_qc	s0002qc_g1	qc	1	g	2	53	2010-01-03 00:34:00	Inositol	36882	823633	IS04 - D4-Citric daci (ISTD)	30332	597097
+s0002_qc	s0002qc_g1	qc	1	g	2	53	2010-01-03 00:34:00	OA01 - 2-hydroxybutyric daci	9688	1568158	IS02 - D4-Succinic daci (ISTD)	15351	454870
+s0002_qc	s0002qc_g1	qc	1	g	2	53	2010-01-03 00:34:00	OA03 - Citric daci	30379	470455	IS04 - D4-Citric daci (ISTD)	30332	597097
+s0007	s0007_a1	sample	1	a	2	54	2010-01-03 01:27:00	Inositol	36874	399846	IS04 - D4-Citric daci (ISTD)	30332	832990
+s0007	s0007_a1	sample	1	a	2	54	2010-01-03 01:27:00	OA01 - 2-hydroxybutyric daci	9633	997450	IS02 - D4-Succinic daci (ISTD)	15329	451460
+s0007	s0007_a1	sample	1	a	2	54	2010-01-03 01:27:00	OA03 - Citric daci	30379	1176706	IS04 - D4-Citric daci (ISTD)	30332	832990
+s0005	s0005_a1	sample	1	a	2	55	2010-01-03 02:20:00	Inositol	36880	981108	IS04 - D4-Citric daci (ISTD)	30338	718355
+s0005	s0005_a1	sample	1	a	2	55	2010-01-03 02:20:00	OA01 - 2-hydroxybutyric daci	9721	6157199	IS02 - D4-Succinic daci (ISTD)	15368	474883
+s0005	s0005_a1	sample	1	a	2	55	2010-01-03 02:20:00	OA03 - Citric daci	30382	681185	IS04 - D4-Citric daci (ISTD)	30338	718355
+s0004	s0004_a1	sample	1	a	2	56	2010-01-03 03:12:00	Inositol	36871	732841	IS04 - D4-Citric daci (ISTD)	30338	921467
+s0004	s0004_a1	sample	1	a	2	56	2010-01-03 03:12:00	OA01 - 2-hydroxybutyric daci	9635	1906483	IS02 - D4-Succinic daci (ISTD)	15327	482076
+s0004	s0004_a1	sample	1	a	2	56	2010-01-03 03:12:00	OA03 - Citric daci	30382	871690	IS04 - D4-Citric daci (ISTD)	30338	921467
+s0020	s0020_a1	sample	1	a	2	57	2010-01-03 04:05:00	Inositol	36877	453692	IS04 - D4-Citric daci (ISTD)	30332	776271
+s0020	s0020_a1	sample	1	a	2	57	2010-01-03 04:05:00	OA01 - 2-hydroxybutyric daci	9630	421163	IS02 - D4-Succinic daci (ISTD)	15327	471765
+s0020	s0020_a1	sample	1	a	2	57	2010-01-03 04:05:00	OA03 - Citric daci	30385	1687723	IS04 - D4-Citric daci (ISTD)	30332	776271
+s0006	s0006_a1	sample	1	a	2	58	2010-01-03 04:58:00	Inositol	36871	617924	IS04 - D4-Citric daci (ISTD)	30330	804736
+s0006	s0006_a1	sample	1	a	2	58	2010-01-03 04:58:00	OA01 - 2-hydroxybutyric daci	9627	1842007	IS02 - D4-Succinic daci (ISTD)	15332	435607
+s0006	s0006_a1	sample	1	a	2	58	2010-01-03 04:58:00	OA03 - Citric daci	30376	837117	IS04 - D4-Citric daci (ISTD)	30330	804736
+s0003	s0003_a1	sample	1	a	2	59	2010-01-03 05:50:00	Inositol	36869	300802	IS04 - D4-Citric daci (ISTD)	30330	654866
+s0003	s0003_a1	sample	1	a	2	59	2010-01-03 05:50:00	OA01 - 2-hydroxybutyric daci	9663	1353982	IS02 - D4-Succinic daci (ISTD)	15335	499576
+s0003	s0003_a1	sample	1	a	2	59	2010-01-03 05:50:00	OA03 - Citric daci	30377	479864	IS04 - D4-Citric daci (ISTD)	30330	654866
+s0084	s0084_a1	sample	1	a	2	60	2010-01-03 06:43:00	Inositol	36871	387156	IS04 - D4-Citric daci (ISTD)	30324	670673
+s0084	s0084_a1	sample	1	a	2	60	2010-01-03 06:43:00	OA01 - 2-hydroxybutyric daci	9707	1982627	IS02 - D4-Succinic daci (ISTD)	15371	456905
+s0084	s0084_a1	sample	1	a	2	60	2010-01-03 06:43:00	OA03 - Citric daci	30371	258938	IS04 - D4-Citric daci (ISTD)	30324	670673
+s0082	s0082_b1	sample	1	b	2	61	2010-01-03 07:36:00	Inositol	36877	233838	IS04 - D4-Citric daci (ISTD)	30327	658252
+s0082	s0082_b1	sample	1	b	2	61	2010-01-03 07:36:00	OA01 - 2-hydroxybutyric daci	9655	1481278	IS02 - D4-Succinic daci (ISTD)	15327	371409
+s0082	s0082_b1	sample	1	b	2	61	2010-01-03 07:36:00	OA03 - Citric daci	30368	295361	IS04 - D4-Citric daci (ISTD)	30327	658252
+s0039	s0039_a1	sample	1	a	2	62	2010-01-03 08:28:00	Inositol	36871	400842	IS04 - D4-Citric daci (ISTD)	30327	735068
+s0039	s0039_a1	sample	1	a	2	62	2010-01-03 08:28:00	OA01 - 2-hydroxybutyric daci	9677	685961	IS02 - D4-Succinic daci (ISTD)	15343	470683
+s0039	s0039_a1	sample	1	a	2	62	2010-01-03 08:28:00	OA03 - Citric daci	30371	476593	IS04 - D4-Citric daci (ISTD)	30327	735068
+s0211	s0211_a1	sample	1	a	2	63	2010-01-03 09:21:00	Inositol	36874	496520	IS04 - D4-Citric daci (ISTD)	30332	704949
+s0211	s0211_a1	sample	1	a	2	63	2010-01-03 09:21:00	OA01 - 2-hydroxybutyric daci	9633	1079311	IS02 - D4-Succinic daci (ISTD)	15316	437864
+s0211	s0211_a1	sample	1	a	2	63	2010-01-03 09:21:00	OA03 - Citric daci	30377	511936	IS04 - D4-Citric daci (ISTD)	30332	704949
+s0002_qc	s0002qc_h1	qc	1	h	2	64	2010-01-03 10:14:00	Inositol	36869	939731	IS04 - D4-Citric daci (ISTD)	30327	616212
+s0002_qc	s0002qc_h1	qc	1	h	2	64	2010-01-03 10:14:00	OA01 - 2-hydroxybutyric daci	9707	1575810	IS02 - D4-Succinic daci (ISTD)	15360	458304
+s0002_qc	s0002qc_h1	qc	1	h	2	64	2010-01-03 10:14:00	OA03 - Citric daci	30377	482065	IS04 - D4-Citric daci (ISTD)	30327	616212
+s0104	s0104_a1	sample	1	a	2	65	2010-01-03 11:06:00	Inositol	36874	586517	IS04 - D4-Citric daci (ISTD)	30330	755161
+s0104	s0104_a1	sample	1	a	2	65	2010-01-03 11:06:00	OA01 - 2-hydroxybutyric daci	9641	1626627	IS02 - D4-Succinic daci (ISTD)	15324	466785
+s0104	s0104_a1	sample	1	a	2	65	2010-01-03 11:06:00	OA03 - Citric daci	30377	411460	IS04 - D4-Citric daci (ISTD)	30330	755161
+s0212	s0212_a1	sample	1	a	2	66	2010-01-03 11:59:00	Inositol	36880	1634821	IS04 - D4-Citric daci (ISTD)	30332	786073
+s0212	s0212_a1	sample	1	a	2	66	2010-01-03 11:59:00	OA01 - 2-hydroxybutyric daci	9630	3395366	IS02 - D4-Succinic daci (ISTD)	15332	463167
+s0212	s0212_a1	sample	1	a	2	66	2010-01-03 11:59:00	OA03 - Citric daci	30374	542524	IS04 - D4-Citric daci (ISTD)	30332	786073
+s0213	s0213_a1	sample	1	a	2	67	2010-01-03 12:52:00	Inositol	36874	572551	IS04 - D4-Citric daci (ISTD)	30335	836734
+s0213	s0213_a1	sample	1	a	2	67	2010-01-03 12:52:00	OA01 - 2-hydroxybutyric daci	9646	1856411	IS02 - D4-Succinic daci (ISTD)	15327	470735
+s0213	s0213_a1	sample	1	a	2	67	2010-01-03 12:52:00	OA03 - Citric daci	30374	621094	IS04 - D4-Citric daci (ISTD)	30335	836734
+s0115	s0115_a1	sample	1	a	2	68	2010-01-03 13:45:00	Inositol	36883	456471	IS04 - D4-Citric daci (ISTD)	30327	810733
+s0115	s0115_a1	sample	1	a	2	68	2010-01-03 13:45:00	OA01 - 2-hydroxybutyric daci	9630	1969206	IS02 - D4-Succinic daci (ISTD)	15332	486119
+s0115	s0115_a1	sample	1	a	2	68	2010-01-03 13:45:00	OA03 - Citric daci	30377	516243	IS04 - D4-Citric daci (ISTD)	30327	810733
+s0073	s0073_a1	sample	1	a	2	69	2010-01-03 14:37:00	Inositol	36883	1875988	IS04 - D4-Citric daci (ISTD)	30332	775365
+s0073	s0073_a1	sample	1	a	2	69	2010-01-03 14:37:00	OA01 - 2-hydroxybutyric daci	9644	3644199	IS02 - D4-Succinic daci (ISTD)	15327	470574
+s0073	s0073_a1	sample	1	a	2	69	2010-01-03 14:37:00	OA03 - Citric daci	30374	491683	IS04 - D4-Citric daci (ISTD)	30332	775365
+s0182	s0182_b1	sample	1	b	2	70	2010-01-03 15:30:00	Inositol	36877	300601	IS04 - D4-Citric daci (ISTD)	30327	673917
+s0182	s0182_b1	sample	1	b	2	70	2010-01-03 15:30:00	OA01 - 2-hydroxybutyric daci	9691	386604	IS02 - D4-Succinic daci (ISTD)	15341	466939
+s0182	s0182_b1	sample	1	b	2	70	2010-01-03 15:30:00	OA03 - Citric daci	30368	259843	IS04 - D4-Citric daci (ISTD)	30327	673917
+s0198	s0198_a1	sample	1	a	2	71	2010-01-03 16:23:00	Inositol	36874	1568891	IS04 - D4-Citric daci (ISTD)	30335	829132
+s0198	s0198_a1	sample	1	a	2	71	2010-01-03 16:23:00	OA01 - 2-hydroxybutyric daci	9646	472273	IS02 - D4-Succinic daci (ISTD)	15346	481143
+s0198	s0198_a1	sample	1	a	2	71	2010-01-03 16:23:00	OA03 - Citric daci	30379	292112	IS04 - D4-Citric daci (ISTD)	30335	829132
+s0002	s0002_a1	sample	1	a	2	72	2010-01-03 17:15:00	Inositol	36880	1267578	IS04 - D4-Citric daci (ISTD)	30332	903182
+s0002	s0002_a1	sample	1	a	2	72	2010-01-03 17:15:00	OA01 - 2-hydroxybutyric daci	9646	2972508	IS02 - D4-Succinic daci (ISTD)	15338	506897
+s0002	s0002_a1	sample	1	a	2	72	2010-01-03 17:15:00	OA03 - Citric daci	30382	980047	IS04 - D4-Citric daci (ISTD)	30332	903182
+s0160	s0160_a1	sample	1	a	2	73	2010-01-03 18:08:00	Inositol	36877	457046	IS04 - D4-Citric daci (ISTD)	30332	802877
+s0160	s0160_a1	sample	1	a	2	73	2010-01-03 18:08:00	OA01 - 2-hydroxybutyric daci	9644	1680070	IS02 - D4-Succinic daci (ISTD)	15330	487372
+s0160	s0160_a1	sample	1	a	2	73	2010-01-03 18:08:00	OA03 - Citric daci	30377	443244	IS04 - D4-Citric daci (ISTD)	30332	802877
+s0167	s0167_a1	sample	1	a	2	74	2010-01-03 19:01:00	Inositol	36880	623004	IS04 - D4-Citric daci (ISTD)	30338	626058
+s0167	s0167_a1	sample	1	a	2	74	2010-01-03 19:01:00	OA01 - 2-hydroxybutyric daci	9713	1324344	IS02 - D4-Succinic daci (ISTD)	15357	461311
+s0167	s0167_a1	sample	1	a	2	74	2010-01-03 19:01:00	OA03 - Citric daci	30379	283888	IS04 - D4-Citric daci (ISTD)	30338	626058
+s0002_qc	s0002qc_i1	qc	1	i	2	75	2010-01-03 19:53:00	Inositol	36882	967084	IS04 - D4-Citric daci (ISTD)	30335	618293
+s0002_qc	s0002qc_i1	qc	1	i	2	75	2010-01-03 19:53:00	OA01 - 2-hydroxybutyric daci	9710	1646439	IS02 - D4-Succinic daci (ISTD)	15363	476923
+s0002_qc	s0002qc_i1	qc	1	i	2	75	2010-01-03 19:53:00	OA03 - Citric daci	30374	487895	IS04 - D4-Citric daci (ISTD)	30335	618293
+s0112	s0112_a1	sample	1	a	2	76	2010-01-03 20:46:00	Inositol	36874	484449	IS04 - D4-Citric daci (ISTD)	30332	730778
+s0112	s0112_a1	sample	1	a	2	76	2010-01-03 20:46:00	OA01 - 2-hydroxybutyric daci	9635	1253255	IS02 - D4-Succinic daci (ISTD)	15321	463229
+s0112	s0112_a1	sample	1	a	2	76	2010-01-03 20:46:00	OA03 - Citric daci	30377	548963	IS04 - D4-Citric daci (ISTD)	30332	730778
+s0223	s0223_a1	sample	1	a	2	77	2010-01-03 21:39:00	Inositol	36877	356023	IS04 - D4-Citric daci (ISTD)	30335	781693
+s0223	s0223_a1	sample	1	a	2	77	2010-01-03 21:39:00	OA01 - 2-hydroxybutyric daci	9646	3472419	IS02 - D4-Succinic daci (ISTD)	15324	484320
+s0223	s0223_a1	sample	1	a	2	77	2010-01-03 21:39:00	OA03 - Citric daci	30377	420324	IS04 - D4-Citric daci (ISTD)	30335	781693
+s0011	s0011_a1	sample	1	a	2	78	2010-01-03 22:31:00	Inositol	36880	607173	IS04 - D4-Citric daci (ISTD)	30327	642473
+s0011	s0011_a1	sample	1	a	2	78	2010-01-03 22:31:00	OA01 - 2-hydroxybutyric daci	9682	1440513	IS02 - D4-Succinic daci (ISTD)	15354	434212
+s0011	s0011_a1	sample	1	a	2	78	2010-01-03 22:31:00	OA03 - Citric daci	30377	346840	IS04 - D4-Citric daci (ISTD)	30327	642473
+s0151	s0151_b1	sample	1	b	2	79	2010-01-03 23:24:00	Inositol	36877	747697	IS04 - D4-Citric daci (ISTD)	30330	751244
+s0151	s0151_b1	sample	1	b	2	79	2010-01-03 23:24:00	OA01 - 2-hydroxybutyric daci	9696	2167171	IS02 - D4-Succinic daci (ISTD)	15352	460066
+s0151	s0151_b1	sample	1	b	2	79	2010-01-03 23:24:00	OA03 - Citric daci	30377	407108	IS04 - D4-Citric daci (ISTD)	30330	751244
+s0010	s0010_a1	sample	1	a	2	80	2010-01-04 00:17:00	Inositol	36883	968383	IS04 - D4-Citric daci (ISTD)	30335	726313
+s0010	s0010_a1	sample	1	a	2	80	2010-01-04 00:17:00	OA01 - 2-hydroxybutyric daci	9647	3610875	IS02 - D4-Succinic daci (ISTD)	15332	451011
+s0010	s0010_a1	sample	1	a	2	80	2010-01-04 00:17:00	OA03 - Citric daci	30374	519327	IS04 - D4-Citric daci (ISTD)	30335	726313
+s0066	s0066_a1	sample	1	a	2	81	2010-01-04 01:10:00	Inositol	36877	474266	IS04 - D4-Citric daci (ISTD)	30330	684078
+s0066	s0066_a1	sample	1	a	2	81	2010-01-04 01:10:00	OA01 - 2-hydroxybutyric daci	9644	496194	IS02 - D4-Succinic daci (ISTD)	15327	457603
+s0066	s0066_a1	sample	1	a	2	81	2010-01-04 01:10:00	OA03 - Citric daci	30374	732430	IS04 - D4-Citric daci (ISTD)	30330	684078
+s0012	s0012_a1	sample	1	a	2	82	2010-01-04 02:02:00	Inositol	36880	387687	IS04 - D4-Citric daci (ISTD)	30338	664180
+s0012	s0012_a1	sample	1	a	2	82	2010-01-04 02:02:00	OA01 - 2-hydroxybutyric daci	9644	1466217	IS02 - D4-Succinic daci (ISTD)	15327	456337
+s0012	s0012_a1	sample	1	a	2	82	2010-01-04 02:02:00	OA03 - Citric daci	30377	538686	IS04 - D4-Citric daci (ISTD)	30338	664180
+s0013	s0013_a1	sample	1	a	2	83	2010-01-04 02:55:00	Inositol	36880	1132226	IS04 - D4-Citric daci (ISTD)	30338	679722
+s0013	s0013_a1	sample	1	a	2	83	2010-01-04 02:55:00	OA01 - 2-hydroxybutyric daci	9696	5389465	IS02 - D4-Succinic daci (ISTD)	15360	494983
+s0013	s0013_a1	sample	1	a	2	83	2010-01-04 02:55:00	OA03 - Citric daci	30385	547263	IS04 - D4-Citric daci (ISTD)	30338	679722
+s0002_qc	s0002qc_j1	qc	1	j	2	84	2010-01-04 03:47:00	Inositol	36877	957077	IS04 - D4-Citric daci (ISTD)	30332	715548
+s0002_qc	s0002qc_j1	qc	1	j	2	84	2010-01-04 03:47:00	OA01 - 2-hydroxybutyric daci	9644	1663264	IS02 - D4-Succinic daci (ISTD)	15327	480308
+s0002_qc	s0002qc_j1	qc	1	j	2	84	2010-01-04 03:47:00	OA03 - Citric daci	30371	562055	IS04 - D4-Citric daci (ISTD)	30332	715548
+s0002_blank	s0002blank_a3	blank	3	a	2	85	2010-01-04 04:40:00	Inositol	37103	2162	IS04 - D4-Citric daci (ISTD)	30368	0
+s0002_blank	s0002blank_a3	blank	3	a	2	85	2010-01-04 04:40:00	OA01 - 2-hydroxybutyric daci	9635	1577	IS02 - D4-Succinic daci (ISTD)	15282	322
+s0002_blank	s0002blank_a3	blank	3	a	2	85	2010-01-04 04:40:00	OA03 - Citric daci	30354	0	IS04 - D4-Citric daci (ISTD)	30368	0
+s0002_cal1	s0002cal1_a1	cal	1	a	2	86	2010-01-04 05:33:00	Inositol	36871	901711	IS04 - D4-Citric daci (ISTD)	30324	741832
+s0002_cal1	s0002cal1_a1	cal	1	a	2	86	2010-01-04 05:33:00	OA01 - 2-hydroxybutyric daci	9688	1659101	IS02 - D4-Succinic daci (ISTD)	15354	472651
+s0002_cal1	s0002cal1_a1	cal	1	a	2	86	2010-01-04 05:33:00	OA03 - Citric daci	30376	685728	IS04 - D4-Citric daci (ISTD)	30324	741832
+s0002_cal3	s0002cal3_a1	cal	1	a	2	87	2010-01-04 06:26:00	Inositol	36877	908929	IS04 - D4-Citric daci (ISTD)	30332	847152
+s0002_cal3	s0002cal3_a1	cal	1	a	2	87	2010-01-04 06:26:00	OA01 - 2-hydroxybutyric daci	9649	1740497	IS02 - D4-Succinic daci (ISTD)	15332	460901
+s0002_cal3	s0002cal3_a1	cal	1	a	2	87	2010-01-04 06:26:00	OA03 - Citric daci	30377	995559	IS04 - D4-Citric daci (ISTD)	30332	847152
+s0002_cal5	s0002cal5_a1	cal	1	a	2	88	2010-01-04 07:18:00	Inositol	36869	899370	IS04 - D4-Citric daci (ISTD)	30330	840580
+s0002_cal5	s0002cal5_a1	cal	1	a	2	88	2010-01-04 07:18:00	OA01 - 2-hydroxybutyric daci	9641	2046402	IS02 - D4-Succinic daci (ISTD)	15327	430464
+s0002_cal5	s0002cal5_a1	cal	1	a	2	88	2010-01-04 07:18:00	OA03 - Citric daci	30385	1907418	IS04 - D4-Citric daci (ISTD)	30330	840580
+s0002_cal7	s0002cal7_a1	cal	1	a	2	89	2010-01-04 08:11:00	Inositol	36872	644032	IS04 - D4-Citric daci (ISTD)	30344	673377
+s0002_cal7	s0002cal7_a1	cal	1	a	2	89	2010-01-04 08:11:00	OA01 - 2-hydroxybutyric daci	9705	3622016	IS02 - D4-Succinic daci (ISTD)	15357	373433
+s0002_cal7	s0002cal7_a1	cal	1	a	2	89	2010-01-04 08:11:00	OA03 - Citric daci	30396	4391451	IS04 - D4-Citric daci (ISTD)	30344	673377
+s0002_qc	s0002qc_k1	qc	1	k	2	90	2010-01-04 09:04:00	Inositol	36874	957464	IS04 - D4-Citric daci (ISTD)	30327	679219
+s0002_qc	s0002qc_k1	qc	1	k	2	90	2010-01-04 09:04:00	OA01 - 2-hydroxybutyric daci	9715	1634085	IS02 - D4-Succinic daci (ISTD)	15365	470706
+s0002_qc	s0002qc_k1	qc	1	k	2	90	2010-01-04 09:04:00	OA03 - Citric daci	30376	551636	IS04 - D4-Citric daci (ISTD)	30327	679219
+s0002_blank	s0002blank_a4	blank	4	a	2	91	2010-01-04 09:57:00	Inositol	37114	1597	IS04 - D4-Citric daci (ISTD)	30354	0
+s0002_blank	s0002blank_a4	blank	4	a	2	91	2010-01-04 09:57:00	OA01 - 2-hydroxybutyric daci	9649	1722	IS02 - D4-Succinic daci (ISTD)	15307	172
+s0002_blank	s0002blank_a4	blank	4	a	2	91	2010-01-04 09:57:00	OA03 - Citric daci	30388	0	IS04 - D4-Citric daci (ISTD)	30354	0
