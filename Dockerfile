@@ -5,8 +5,8 @@ FROM python:3.6.5-slim-jessie
 MAINTAINER PhenoMeNal-H2020 Project ( phenomenal-h2020-users@googlegroups.com )
 
 ENV TOOL_NAME="mzQuality" \
-    TOOL_VERSION=0.9.3 \
-    TOOL_DOWNLOAD_URL="https://github.com/leidenuniv-lacdr-abs/mzQuality/archive/v0.9.3.tar.gz" \
+    TOOL_VERSION=0.9.4 \
+    TOOL_DOWNLOAD_URL="https://github.com/leidenuniv-lacdr-abs/mzQuality/archive/v0.9.4.tar.gz" \
     TOOL_TAR_GZ="mzQuality.tar.gz" \
     CONTAINER_VERSION=0.0.1
 

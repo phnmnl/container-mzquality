@@ -1,12 +1,18 @@
 #!/bin/bash
 
-# run example datasets
-python /files/mzquality/qcli.py blank_effect --mea-file=/files/mzquality/data/combined.tsv --blank-effect-file=/files/mzquality/data/blank_effect.tsv
+# run example dataset
+python /files/mzquality/qcli.py blank_effect --mea-file=/files/mzquality/data/combined.tsv --blank-effect-file=/files/mzquality/data/blank_effect_test.tsv
+python /files/mzquality/qcli.py rt_shifts --mea-file=/files/mzquality/data/combined.tsv --rt-shifts-file=/files/mzquality/data/rt_shifts_test.tsv
 
 # compare output
-if ! cmp -s "/files/ms-vfetc/data/tmp/agilent.txt" "/tmp/agilent.txt"; then
-	echo "Agilent files don't match!"
+if ! cmp -s "/files/mzquality/data/blank_effect.tsv" "/files/mzquality/data/blank_effect_test.tsv"; then
+	echo "Blank effect files don't match!"
 	exit 1
 fi
 
-echo "All files created successfully"
+if ! cmp -s "/files/mzquality/data/rt_shifts.tsv" "/files/mzquality/data/rt_shifts_test.tsv"; then
+	echo "RT shifts files don't match!"
+	exit 1
+fi
+
+echo "All files are equal, success!"
