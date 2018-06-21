@@ -37,4 +37,7 @@ RUN apt-get update && apt-get install -y --no-install-recommends curl bzip2 && \
     rm -rf /var/lib/apt/lists/* /tmp/* /var/tmp/* && \
     chmod +x /usr/local/bin/runTest1.sh
 
+COPY data/combined.tsv /tmp/combined.tsv
+COPY data/blank_effect.tsv /tmp/blank_effect.tsv
+
 ENTRYPOINT ["/files/mzQuality/qcli.py"]
