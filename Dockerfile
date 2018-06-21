@@ -39,5 +39,6 @@ RUN apt-get update && apt-get install -y --no-install-recommends curl bzip2 && \
 
 COPY data/combined.tsv /tmp/combined.tsv
 COPY data/blank_effect.tsv /tmp/blank_effect.tsv
+COPY data/rt_shifts.tsv /tmp/rt_shifts.tsv
 
 ENTRYPOINT ["/files/mzQuality/qcli.py"]
