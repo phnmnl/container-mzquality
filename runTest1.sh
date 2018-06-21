@@ -2,7 +2,7 @@
 
 # run example dataset
 python /files/mzQuality/qcli.py blank_effect --mea-file=/tmp/combined.tsv --blank-effect-file=/tmp/be.tsv
-python /files/mzQuality/qcli.py rt_shifts --mea-file=/tmp/combined.tsv --blank-effect-file=/tmp/rts.tsv
+python /files/mzQuality/qcli.py rt_shifts --mea-file=/tmp/combined.tsv --rt-shifts-file=/tmp/rts.tsv
 
 # compare output
 if ! cmp -s "/tmp/blank_effect.tsv" "/tmp/be.tsv"; then
