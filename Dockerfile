@@ -6,7 +6,8 @@ MAINTAINER PhenoMeNal-H2020 Project ( phenomenal-h2020-users@googlegroups.com )
 
 ENV TOOL_NAME="mzQuality" \
     TOOL_VERSION=1.0 \
-    TOOL_DOWNLOAD_URL="https://github.com/leidenuniv-lacdr-abs/mzQuality/archive/v0.9.4.tar.gz" \
+    # TOOL_DOWNLOAD_URL="https://github.com/leidenuniv-lacdr-abs/mzQuality/archive/v0.9.4.tar.gz" \
+    TOOL_DOWNLOAD_URL="https://github.com/leidenuniv-lacdr-abs/mzQuality/archive/master.tar.gz" \
     TOOL_TAR_GZ="mzQuality.tar.gz" \
     CONTAINER_VERSION=1.0
 
