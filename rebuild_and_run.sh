@@ -16,4 +16,4 @@ docker run -it --rm -v $(pwd)/data:/data mzquality export_measurements --file=/d
 docker run -it --rm -v $(pwd)/data:/data mzquality export_measurements --file=/data/qc_corrected.tsv --column=inter_median_qc_corrected --export_location=/data/qc_inter.tsv --include_is=True && tail $(pwd)/data/qc_inter.tsv
 docker run -it --rm -v $(pwd)/data:/data mzquality plot_compound --qc-corrected-file=/data/qc_corrected.tsv --compound=Inositol --plot-location=/data/plots
 docker run -it --rm -v $(pwd)/data:/data mzquality plot_compounds --qc-corrected-file=/data/qc_corrected.tsv --plot-location=/data/plots
-docker run -it --rm -v $(pwd)/data:/data mzquality plot_compounds --qc-corrected-file=/data/qc_corrected.tsv --plot-location=/data/plots --zipped=True
+docker run -it --rm -v $(pwd)/data:/data mzquality plot_compounds_zipped --qc-corrected-file=/data/qc_corrected.tsv --zip-file=/data/plots.zip
