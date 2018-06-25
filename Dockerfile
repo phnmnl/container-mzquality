@@ -5,15 +5,14 @@ FROM python:3.6.5-slim-jessie
 MAINTAINER PhenoMeNal-H2020 Project ( phenomenal-h2020-users@googlegroups.com )
 
 ENV TOOL_NAME="mzQuality" \
-    TOOL_VERSION=1.0 \
-    # TOOL_DOWNLOAD_URL="https://github.com/leidenuniv-lacdr-abs/mzQuality/archive/v0.9.4.tar.gz" \
-    TOOL_DOWNLOAD_URL="https://github.com/leidenuniv-lacdr-abs/mzQuality/archive/master.tar.gz" \
+    TOOL_VERSION=0.9.5 \
+    TOOL_DOWNLOAD_URL="https://github.com/leidenuniv-lacdr-abs/mzQuality/archive/v0.9.5.tar.gz" \
     TOOL_TAR_GZ="mzQuality.tar.gz" \
     CONTAINER_VERSION=1.0
 
 LABEL software="mzQuality"
-LABEL software.version=1.0
-LABEL version=1.0
+LABEL software.version=0.9.5
+LABEL version=0.9.5
 LABEL base.image="python:3.6.5-slim-jessie"
 LABEL description="A tool to assess the quality of targeted mass spectrometry measurements."
 LABEL website="http://www."${TOOL_NAME}".nl"
